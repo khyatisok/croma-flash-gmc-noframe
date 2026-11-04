@@ -2427,9 +2427,9 @@ updated, stay happy! </description>
 <g:custom_label_0>Computers &amp; Tablets</g:custom_label_0>
 <g:custom_label_1>Laptops</g:custom_label_1>
 <g:custom_label_2>Windows Laptops</g:custom_label_2>
-<g:custom_label_3/>
+<g:custom_label_3>edlp</g:custom_label_3>
 <g:custom_label_4/>
-<g:gtin>5397184000960</g:gtin>
+<g:internal_label>['edlp']</g:internal_label><g:gtin>5397184000960</g:gtin>
 <link>https://www.croma.com/dell-14-plus-intel-core-ultra-7-thin-light-laptop-16gb-512gb-ssd-windows-11-home-14-inch-2-5k-ips-display-ms-office-home-2024-ice-blue-1-55-kg-/p/323787</link>
 <g:price>122072.0 INR</g:price>
 <g:sale_price>99990.0 INR</g:sale_price>
@@ -3281,9 +3281,9 @@ updated, stay happy! </description>
 <g:custom_label_0>Computers &amp; Tablets</g:custom_label_0>
 <g:custom_label_1>Laptops</g:custom_label_1>
 <g:custom_label_2>Ultra Thin Laptops</g:custom_label_2>
-<g:custom_label_3/>
+<g:custom_label_3>edlp</g:custom_label_3>
 <g:custom_label_4/>
-<g:gtin>821844417706</g:gtin>
+<g:internal_label>['edlp']</g:internal_label><g:gtin>821844417706</g:gtin>
 <link>https://www.croma.com/hp-omnibook-3-intel-core-ultra-5-thin-light-notebook-laptop-16gb-512gb-ssd-windows-11-home-14-inch-2k-oled-uwva-display-ms-office-2024-glacier-silver-1-4-kg-/p/324588</link>
 <g:price>145661.0 INR</g:price>
 <g:sale_price>88990.0 INR</g:sale_price>
@@ -16794,7 +16794,7 @@ updated, stay happy! </description>
 <g:gtin>4894947105302</g:gtin>
 <link>https://www.croma.com/tecno-spark-go-3-4gb-ram-64gb-galaxy-blue-/p/324022</link>
 <g:price>15999.0 INR</g:price>
-<g:sale_price>11999.0 INR</g:sale_price>
+<g:sale_price>10999.0 INR</g:sale_price>
 <g:brand>TECNO</g:brand>
 <g:condition>new</g:condition>
 <g:image_link>https://media.tatacroma.com/Croma%20Assets/Communication/Mobiles/Images/324022_0_M0hQ84a2r.png?updatedAt=1782291042989</g:image_link>
@@ -18205,32 +18205,6 @@ updated, stay happy! </description>
 </g:shipping>
 </item>
 <item>
-<g:id>301464</g:id>
-<title>urbn UPR105 10000 mAh 22.5W Fast Charging Power Bank (1 USB Type A and 2 Type C Ports, Ultra Slim, Power Delivery Compatible, Camo)</title>
-<description>Buy urbn UPR105 10000 mAh 22.5W Fast Charging Power Bank (1 USB Type A and 2 Type C Ports, Ultra Slim, Power Delivery Compatible, Camo) online at best prices from Croma. Check product details, reviews &amp; more. Shop now!</description>
-<g:google_product_category>Electronics &gt; Communications &gt; Telephony &gt; Mobile Phone Accessories</g:google_product_category>
-<g:product_type>Phones &amp; Wearables&gt;Mobile Accessories&gt;Power Banks</g:product_type>
-<g:custom_label_0>Phones &amp; Wearables</g:custom_label_0>
-<g:custom_label_1>Mobile Accessories</g:custom_label_1>
-<g:custom_label_2>Power Banks</g:custom_label_2>
-<g:custom_label_3/>
-<g:custom_label_4/>
-<g:gtin>8906130401682</g:gtin>
-<link>https://www.croma.com/urbn-upr105-10000-mah-22-5w-fast-charging-power-bank-1-usb-type-a-and-2-type-c-ports-ultra-slim-power-delivery-compatible-camo-/p/301464</link>
-<g:price>2999.0 INR</g:price>
-<g:sale_price>999.0 INR</g:sale_price>
-<g:brand>Urbn</g:brand>
-<g:condition>new</g:condition>
-<g:image_link>https://media.tatacroma.com/Croma%20Assets/Communication/Mobile%20Accessories/Images/301464_0_n8rzs2.png</g:image_link>
-<g:additional_image_link>https://media.tatacroma.com/Croma%20Assets/Communication/Mobile%20Accessories/Images/301464_0_n8rzs2.png</g:additional_image_link>
-<g:availability>in_stock</g:availability>
-<g:color> Camo </g:color>
-<g:shipping>
-<g:country>IN</g:country>
-<g:price>29.0 INR</g:price>
-</g:shipping>
-</item>
-<item>
 <g:id>302485</g:id>
 <title>Crompton Surebreeze Hill Briz 1 Star 1200mm 3 Blade Copper Motor Ceiling Fan (High Velocity, Ivory)</title>
 <description>Buy Crompton Surebreeze Hill Briz 1 Star 1200mm 3 Blade Copper Motor Ceiling Fan (High Velocity, Ivory) online at best prices from Croma. Check product details, reviews &amp; more. Shop now!</description>
@@ -18251,6 +18225,32 @@ updated, stay happy! </description>
 <g:additional_image_link>https://media.tatacroma.com/Croma%20Assets/Small%20Appliances/Fans/Images/302485_0_yq1ms2.png</g:additional_image_link>
 <g:availability>in_stock</g:availability>
 <g:color> Ivory </g:color>
+<g:shipping>
+<g:country>IN</g:country>
+<g:price>29.0 INR</g:price>
+</g:shipping>
+</item>
+<item>
+<g:id>301464</g:id>
+<title>urbn UPR105 10000 mAh 22.5W Fast Charging Power Bank (1 USB Type A and 2 Type C Ports, Ultra Slim, Power Delivery Compatible, Camo)</title>
+<description>Buy urbn UPR105 10000 mAh 22.5W Fast Charging Power Bank (1 USB Type A and 2 Type C Ports, Ultra Slim, Power Delivery Compatible, Camo) online at best prices from Croma. Check product details, reviews &amp; more. Shop now!</description>
+<g:google_product_category>Electronics &gt; Communications &gt; Telephony &gt; Mobile Phone Accessories</g:google_product_category>
+<g:product_type>Phones &amp; Wearables&gt;Mobile Accessories&gt;Power Banks</g:product_type>
+<g:custom_label_0>Phones &amp; Wearables</g:custom_label_0>
+<g:custom_label_1>Mobile Accessories</g:custom_label_1>
+<g:custom_label_2>Power Banks</g:custom_label_2>
+<g:custom_label_3/>
+<g:custom_label_4/>
+<g:gtin>8906130401682</g:gtin>
+<link>https://www.croma.com/urbn-upr105-10000-mah-22-5w-fast-charging-power-bank-1-usb-type-a-and-2-type-c-ports-ultra-slim-power-delivery-compatible-camo-/p/301464</link>
+<g:price>2999.0 INR</g:price>
+<g:sale_price>999.0 INR</g:sale_price>
+<g:brand>Urbn</g:brand>
+<g:condition>new</g:condition>
+<g:image_link>https://media.tatacroma.com/Croma%20Assets/Communication/Mobile%20Accessories/Images/301464_0_n8rzs2.png</g:image_link>
+<g:additional_image_link>https://media.tatacroma.com/Croma%20Assets/Communication/Mobile%20Accessories/Images/301464_0_n8rzs2.png</g:additional_image_link>
+<g:availability>in_stock</g:availability>
+<g:color> Camo </g:color>
 <g:shipping>
 <g:country>IN</g:country>
 <g:price>29.0 INR</g:price>
@@ -19271,31 +19271,6 @@ updated, stay happy! </description>
 </g:shipping>
 </item>
 <item>
-<g:id>270028</g:id>
-<title>PROMOUNTS Bracket For Air Conditioner (Texture Finish, SACWMB23P, Grey)</title>
-<description>Buy Promounts Bracket For Air Conditioner (Texture Finish, SACWMB23P, Grey) online at best prices from Croma. Check product details, reviews &amp; more. Shop now!</description>
-<g:google_product_category>Home &amp; Garden &gt; Household Appliance Accessories &gt; Air Conditioner Accessories</g:google_product_category>
-<g:product_type>Accessories&gt;Air Conditioner Accessories</g:product_type>
-<g:custom_label_0>Accessories</g:custom_label_0>
-<g:custom_label_1>Air Conditioner Accessories</g:custom_label_1>
-<g:custom_label_3/>
-<g:custom_label_4/>
-<g:gtin>8906096900403</g:gtin>
-<link>https://www.croma.com/promounts-bracket-for-air-conditioner-texture-finish-sacwmb23p-grey-/p/270028</link>
-<g:price>799.0 INR</g:price>
-<g:sale_price>799.0 INR</g:sale_price>
-<g:brand>Promounts</g:brand>
-<g:condition>new</g:condition>
-<g:image_link>https://media.tatacroma.com/Croma%20Assets/Large%20Appliances/AC%20Accessories/Images/270028_aazcvp.png</g:image_link>
-<g:additional_image_link>https://media.tatacroma.com/Croma%20Assets/Large%20Appliances/AC%20Accessories/Images/270028_aazcvp.png</g:additional_image_link>
-<g:availability>in_stock</g:availability>
-<g:color> Grey </g:color>
-<g:shipping>
-<g:country>IN</g:country>
-<g:price>29.0 INR</g:price>
-</g:shipping>
-</item>
-<item>
 <g:id>220727</g:id>
 <title>Oakter Alexa &amp; Google Assistant Smart Home Kit For Home Appliances (Voice Control, White)</title>
 <description>Buy Oakter Alexa &amp; Google Assistant Smart Home Kit For Home Appliances (Voice Control, White) online at best prices from Croma. Check product details, reviews &amp; more. Shop now!</description>
@@ -19319,6 +19294,31 @@ updated, stay happy! </description>
 <g:shipping>
 <g:country>IN</g:country>
 <g:price>49.0 INR</g:price>
+</g:shipping>
+</item>
+<item>
+<g:id>270028</g:id>
+<title>PROMOUNTS Bracket For Air Conditioner (Texture Finish, SACWMB23P, Grey)</title>
+<description>Buy Promounts Bracket For Air Conditioner (Texture Finish, SACWMB23P, Grey) online at best prices from Croma. Check product details, reviews &amp; more. Shop now!</description>
+<g:google_product_category>Home &amp; Garden &gt; Household Appliance Accessories &gt; Air Conditioner Accessories</g:google_product_category>
+<g:product_type>Accessories&gt;Air Conditioner Accessories</g:product_type>
+<g:custom_label_0>Accessories</g:custom_label_0>
+<g:custom_label_1>Air Conditioner Accessories</g:custom_label_1>
+<g:custom_label_3/>
+<g:custom_label_4/>
+<g:gtin>8906096900403</g:gtin>
+<link>https://www.croma.com/promounts-bracket-for-air-conditioner-texture-finish-sacwmb23p-grey-/p/270028</link>
+<g:price>799.0 INR</g:price>
+<g:sale_price>799.0 INR</g:sale_price>
+<g:brand>Promounts</g:brand>
+<g:condition>new</g:condition>
+<g:image_link>https://media.tatacroma.com/Croma%20Assets/Large%20Appliances/AC%20Accessories/Images/270028_aazcvp.png</g:image_link>
+<g:additional_image_link>https://media.tatacroma.com/Croma%20Assets/Large%20Appliances/AC%20Accessories/Images/270028_aazcvp.png</g:additional_image_link>
+<g:availability>in_stock</g:availability>
+<g:color> Grey </g:color>
+<g:shipping>
+<g:country>IN</g:country>
+<g:price>29.0 INR</g:price>
 </g:shipping>
 </item>
 <item>
@@ -20213,9 +20213,9 @@ updated, stay happy! </description>
 </g:shipping>
 </item>
 <item>
-<g:id>326840</g:id>
-<title>vivo V80 5G (8GB RAM, 256GB, Horizon Blue)</title>
-<description>Buy vivo V80 5G (8GB RAM, 256GB, Horizon Blue) online at best prices from Croma. Check product details, reviews &amp; more. Shop now!</description>
+<g:id>325394</g:id>
+<title>Google Pixel 11 5G (12GB RAM, 512GB, Frost)</title>
+<description>Buy Google Pixel 11 5G (12GB RAM, 512GB, Frost) online at best prices from Croma. Check product details, reviews &amp; more. Shop now!</description>
 <g:google_product_category>Electronics &gt; Communications &gt; Telephony &gt; Mobile Phones</g:google_product_category>
 <g:product_type>Phones &amp; Wearables&gt;Mobile Phones&gt;Android Phones</g:product_type>
 <g:custom_label_0>Phones &amp; Wearables</g:custom_label_0>
@@ -20223,16 +20223,16 @@ updated, stay happy! </description>
 <g:custom_label_2>Android Phones</g:custom_label_2>
 <g:custom_label_3/>
 <g:custom_label_4/>
-<g:gtin>6932204546258</g:gtin>
-<link>https://www.croma.com/vivo-v80-5g-8gb-ram-256gb-horizon-blue-/p/326840</link>
-<g:price>118999.0 INR</g:price>
-<g:sale_price>69999.0 INR</g:sale_price>
-<g:brand>Vivo</g:brand>
+<g:gtin>840353956377</g:gtin>
+<link>https://www.croma.com/google-pixel-11-5g-12gb-ram-512gb-frost-/p/325394</link>
+<g:price>104999.0 INR</g:price>
+<g:sale_price>94999.0 INR</g:sale_price>
+<g:brand>Google</g:brand>
 <g:condition>new</g:condition>
-<g:image_link>https://media.tatacroma.com/Croma%20Assets/Communication/Mobiles/Images/326840_0_Sn2nZaTLs.png?updatedAt=1791285421263</g:image_link>
-<g:additional_image_link>https://media.tatacroma.com/Croma%20Assets/Communication/Mobiles/Images/326840_0_Sn2nZaTLs.png?updatedAt=1791285421263</g:additional_image_link>
+<g:image_link>https://media.tatacroma.com/Croma%20Assets/Communication/Mobiles/Images/325394_0_Gj-WGtfQY.png?updatedAt=1786601044489</g:image_link>
+<g:additional_image_link>https://media.tatacroma.com/Croma%20Assets/Communication/Mobiles/Images/325394_0_Gj-WGtfQY.png?updatedAt=1786601044489</g:additional_image_link>
 <g:availability>in_stock</g:availability>
-<g:color> Horizon Blue </g:color>
+<g:color> Frost </g:color>
 <g:product_applicability>SPECIFIC_PRODUCTS</g:product_applicability>
 <g:offer_type>NO_CODE</g:offer_type>
 <g:redemption_channel>ONLINE</g:redemption_channel>
@@ -22490,7 +22490,7 @@ updated, stay happy! </description>
 <g:gtin>4894947105289</g:gtin>
 <link>https://www.croma.com/tecno-spark-go-3-4gb-ram-64gb-titanium-grey-/p/324018</link>
 <g:price>15999.0 INR</g:price>
-<g:sale_price>11999.0 INR</g:sale_price>
+<g:sale_price>10999.0 INR</g:sale_price>
 <g:brand>TECNO</g:brand>
 <g:condition>new</g:condition>
 <g:image_link>https://media.tatacroma.com/Croma%20Assets/Communication/Mobiles/Images/324018_0_OFX58Tc4U.png?updatedAt=1782290922778</g:image_link>
@@ -23713,32 +23713,6 @@ updated, stay happy! </description>
 </g:shipping>
 </item>
 <item>
-<g:id>234886</g:id>
-<title>Insta360 Dual-Lens 360 Mod Lens Guard for One R (Reinforced Lens Shields, IN.00000001.06, Black)</title>
-<description>Buy Insta360 Dual-Lens 360 Mod Lens Protector for One R (Reinforced Lens Shields, IN.00000001.06, Black) online at best prices from Croma. Check product details, reviews &amp; more. Shop now!</description>
-<g:google_product_category>Cameras &amp; Optics &gt; Camera &amp; Optic Accessories</g:google_product_category>
-<g:product_type>Cameras &amp; Accessories&gt;Camera Accessories&gt;Camera Lens Accessories</g:product_type>
-<g:custom_label_0>Cameras &amp; Accessories</g:custom_label_0>
-<g:custom_label_1>Camera Accessories</g:custom_label_1>
-<g:custom_label_2>Camera Lens Accessories</g:custom_label_2>
-<g:custom_label_3/>
-<g:custom_label_4/>
-<g:gtin>6970357851621</g:gtin>
-<link>https://www.croma.com/insta360-dual-lens-360-mod-lens-guard-for-one-r-reinforced-lens-shields-in-00000001-06-black-/p/234886</link>
-<g:price>3990.0 INR</g:price>
-<g:sale_price>634.0 INR</g:sale_price>
-<g:brand>Insta360</g:brand>
-<g:condition>new</g:condition>
-<g:image_link>https://media.tatacroma.com/Croma%20Assets/Unclassified/Images/234886_slqxrq.png</g:image_link>
-<g:additional_image_link>https://media.tatacroma.com/Croma%20Assets/Unclassified/Images/234886_slqxrq.png</g:additional_image_link>
-<g:availability>in_stock</g:availability>
-<g:color> Black </g:color>
-<g:shipping>
-<g:country>IN</g:country>
-<g:price>29.0 INR</g:price>
-</g:shipping>
-</item>
-<item>
 <g:id>234891</g:id>
 <title>iGear Health Digital Pulse Monitor/Oximeter (Perfusion Index of 0.3%, iG-A3, White)</title>
 <description>&lt;p&gt;&lt;strong&gt;Why buy iGear Health Digital Pulse Monitor/Oximeter&lt;/strong&gt;&lt;/p&gt;
@@ -23775,6 +23749,32 @@ updated, stay happy! </description>
 <g:additional_image_link>https://media.tatacroma.com/Croma%20Assets/Small%20Appliances/Health%20Care/Images/234891_cyl1dm.png</g:additional_image_link>
 <g:availability>in_stock</g:availability>
 <g:color> White </g:color>
+<g:shipping>
+<g:country>IN</g:country>
+<g:price>29.0 INR</g:price>
+</g:shipping>
+</item>
+<item>
+<g:id>234886</g:id>
+<title>Insta360 Dual-Lens 360 Mod Lens Guard for One R (Reinforced Lens Shields, IN.00000001.06, Black)</title>
+<description>Buy Insta360 Dual-Lens 360 Mod Lens Protector for One R (Reinforced Lens Shields, IN.00000001.06, Black) online at best prices from Croma. Check product details, reviews &amp; more. Shop now!</description>
+<g:google_product_category>Cameras &amp; Optics &gt; Camera &amp; Optic Accessories</g:google_product_category>
+<g:product_type>Cameras &amp; Accessories&gt;Camera Accessories&gt;Camera Lens Accessories</g:product_type>
+<g:custom_label_0>Cameras &amp; Accessories</g:custom_label_0>
+<g:custom_label_1>Camera Accessories</g:custom_label_1>
+<g:custom_label_2>Camera Lens Accessories</g:custom_label_2>
+<g:custom_label_3/>
+<g:custom_label_4/>
+<g:gtin>6970357851621</g:gtin>
+<link>https://www.croma.com/insta360-dual-lens-360-mod-lens-guard-for-one-r-reinforced-lens-shields-in-00000001-06-black-/p/234886</link>
+<g:price>3990.0 INR</g:price>
+<g:sale_price>634.0 INR</g:sale_price>
+<g:brand>Insta360</g:brand>
+<g:condition>new</g:condition>
+<g:image_link>https://media.tatacroma.com/Croma%20Assets/Unclassified/Images/234886_slqxrq.png</g:image_link>
+<g:additional_image_link>https://media.tatacroma.com/Croma%20Assets/Unclassified/Images/234886_slqxrq.png</g:additional_image_link>
+<g:availability>in_stock</g:availability>
+<g:color> Black </g:color>
 <g:shipping>
 <g:country>IN</g:country>
 <g:price>29.0 INR</g:price>
@@ -28703,9 +28703,9 @@ updated, stay happy! </description>
 <g:custom_label_0>Computers &amp; Tablets</g:custom_label_0>
 <g:custom_label_1>Laptops</g:custom_label_1>
 <g:custom_label_2>Windows Laptops</g:custom_label_2>
-<g:custom_label_3/>
+<g:custom_label_3>edlp</g:custom_label_3>
 <g:custom_label_4/>
-<g:gtin>199896407861</g:gtin>
+<g:internal_label>['edlp']</g:internal_label><g:gtin>199896407861</g:gtin>
 <link>https://www.croma.com/hp-15-fc0782au-amd-ryzen-5-laptop-16gb-512gb-ssd-windows-11-home-15-6-inch-full-hd-ips-display-natural-silver-1-59-kg-/p/323067</link>
 <g:price>95240.0 INR</g:price>
 <g:sale_price>67990.0 INR</g:sale_price>
@@ -29332,32 +29332,6 @@ updated, stay happy! </description>
 <g:shipping>
 <g:country>IN</g:country>
 <g:price>29.0 INR</g:price>
-</g:shipping>
-</item>
-<item>
-<g:id>316022</g:id>
-<title>SONY ULT FIELD 3 Portable Bluetooth Speaker (IP66, IP67 Water Resistant, Party Connect, 2.0 Channel, Black)</title>
-<description>Buy SONY ULT FIELD 3 Portable Bluetooth Speaker (IP66, IP67 Water Resistant, Party Connect, 2.0 Channel, Black) online at best prices from Croma. Check product details, reviews &amp; more. Shop now!</description>
-<g:google_product_category>Electronics &gt; Audio</g:google_product_category>
-<g:product_type>Audio &amp; Video&gt;Speaker &amp; Media Player&gt;Portable Bluetooth Speakers</g:product_type>
-<g:custom_label_0>Audio &amp; Video</g:custom_label_0>
-<g:custom_label_1>Speaker &amp; Media Player</g:custom_label_1>
-<g:custom_label_2>Portable Bluetooth Speakers</g:custom_label_2>
-<g:custom_label_3/>
-<g:custom_label_4/>
-<g:gtin>4548736164697</g:gtin>
-<link>https://www.croma.com/sony-ult-field-3-portable-bluetooth-speaker-ip66-ip67-water-resistant-party-connect-2-0-channel-black-/p/316022</link>
-<g:price>24990.0 INR</g:price>
-<g:sale_price>12990.0 INR</g:sale_price>
-<g:brand>Sony</g:brand>
-<g:condition>new</g:condition>
-<g:image_link>https://media.tatacroma.com/Croma%20Assets/Entertainment/Speakers%20and%20Media%20Players/Images/316022_0_iq5J8CBAr_.png?updatedAt=1753793508336</g:image_link>
-<g:additional_image_link>https://media.tatacroma.com/Croma%20Assets/Entertainment/Speakers%20and%20Media%20Players/Images/316022_0_iq5J8CBAr_.png?updatedAt=1753793508336</g:additional_image_link>
-<g:availability>in_stock</g:availability>
-<g:color> Black </g:color>
-<g:shipping>
-<g:country>IN</g:country>
-<g:price>49.0 INR</g:price>
 </g:shipping>
 </item>
 <item>
@@ -30712,7 +30686,7 @@ updated, stay happy! </description>
 <g:gtin>4894947105326</g:gtin>
 <link>https://www.croma.com/tecno-spark-go-3-4gb-ram-64gb-aurora-purple-/p/324023</link>
 <g:price>15999.0 INR</g:price>
-<g:sale_price>11999.0 INR</g:sale_price>
+<g:sale_price>10999.0 INR</g:sale_price>
 <g:brand>TECNO</g:brand>
 <g:condition>new</g:condition>
 <g:image_link>https://media.tatacroma.com/Croma%20Assets/Communication/Mobiles/Images/324023_0_GvisM3SEV.png?updatedAt=1782291080092</g:image_link>
@@ -32643,6 +32617,36 @@ updated, stay happy! </description>
 <g:shipping>
 <g:country>IN</g:country>
 <g:price>29.0 INR</g:price>
+</g:shipping>
+</item>
+<item>
+<g:id>316628</g:id>
+<title>SENNHEISER Momentum 4 700383 Bluetooth Headphone with Mic (Hybrid Adaptive ANC, Over Ear, Graphite)</title>
+<description>Buy SENNHEISER Momentum 4 700383 Bluetooth Headphone with Mic (Hybrid Adaptive ANC, Over Ear, Graphite) online at best prices from Croma. Check product details, reviews &amp; more. Shop now!</description>
+<g:google_product_category>Electronics &gt; Audio &gt; Audio Components &gt; Headphones &amp; Headsets</g:google_product_category>
+<g:product_type>Audio &amp; Video&gt;Headphones &amp; Earphones&gt;Bluetooth Headphones</g:product_type>
+<g:custom_label_0>Audio &amp; Video</g:custom_label_0>
+<g:custom_label_1>Headphones &amp; Earphones</g:custom_label_1>
+<g:custom_label_2>Bluetooth Headphones</g:custom_label_2>
+<g:custom_label_3/>
+<g:custom_label_4/>
+<g:gtin>4260752332569</g:gtin>
+<link>https://www.croma.com/sennheiser-momentum-4-700383-bluetooth-headphone-with-mic-hybrid-adaptive-anc-over-ear-graphite-/p/316628</link>
+<g:price>34990.0 INR</g:price>
+<g:sale_price>20990.0 INR</g:sale_price>
+<g:brand>Sennheiser</g:brand>
+<g:condition>new</g:condition>
+<g:image_link>https://media.tatacroma.com/Croma%20Assets/Communication/Headphones%20and%20Earphones/Images/316628_0_o5ruqt.png</g:image_link>
+<g:additional_image_link>https://media.tatacroma.com/Croma%20Assets/Communication/Headphones%20and%20Earphones/Images/316628_0_o5ruqt.png</g:additional_image_link>
+<g:availability>in_stock</g:availability>
+<g:color> Graphite </g:color>
+<g:product_applicability>SPECIFIC_PRODUCTS</g:product_applicability>
+<g:offer_type>NO_CODE</g:offer_type>
+<g:redemption_channel>ONLINE</g:redemption_channel>
+<g:promotion_destination>SHOPPING_ADS</g:promotion_destination>
+<g:shipping>
+<g:country>IN</g:country>
+<g:price>49.0 INR</g:price>
 </g:shipping>
 </item>
 <item>
@@ -36115,7 +36119,7 @@ updated, stay happy! </description>
 <g:gtin>4894947105265</g:gtin>
 <link>https://www.croma.com/tecno-spark-go-3-4gb-ram-64gb-ink-black-/p/324019</link>
 <g:price>15999.0 INR</g:price>
-<g:sale_price>11999.0 INR</g:sale_price>
+<g:sale_price>10999.0 INR</g:sale_price>
 <g:brand>TECNO</g:brand>
 <g:condition>new</g:condition>
 <g:image_link>https://media.tatacroma.com/Croma%20Assets/Communication/Mobiles/Images/324019_0_jB1Rsmojq.png?updatedAt=1782290969569</g:image_link>
@@ -45582,6 +45586,36 @@ updated, stay happy! </description>
 </g:shipping>
 </item>
 <item>
+<g:id>326814</g:id>
+<title>oppo F35 5G (6GB RAM, 128GB, Deep Titanium)</title>
+<description>Buy oppo F35 5G (6GB RAM, 128GB, Deep Titanium) online at best prices from Croma. Check product details, reviews &amp; more. Shop now!</description>
+<g:google_product_category>Electronics &gt; Communications &gt; Telephony &gt; Mobile Phones</g:google_product_category>
+<g:product_type>Phones &amp; Wearables&gt;Mobile Phones&gt;Android Phones</g:product_type>
+<g:custom_label_0>Phones &amp; Wearables</g:custom_label_0>
+<g:custom_label_1>Mobile Phones</g:custom_label_1>
+<g:custom_label_2>Android Phones</g:custom_label_2>
+<g:custom_label_3/>
+<g:custom_label_4/>
+<g:gtin>6942675419074</g:gtin>
+<link>https://www.croma.com/oppo-f35-5g-6gb-ram-128gb-deep-titanium-/p/326814</link>
+<g:price>62999.0 INR</g:price>
+<g:sale_price>38999.0 INR</g:sale_price>
+<g:brand>Oppo</g:brand>
+<g:condition>new</g:condition>
+<g:image_link>https://media.tatacroma.com/Croma%20Assets/Communication/Mobiles/Images/326814_0_njUlTUqu2.png?updatedAt=1790839087164</g:image_link>
+<g:additional_image_link>https://media.tatacroma.com/Croma%20Assets/Communication/Mobiles/Images/326814_0_njUlTUqu2.png?updatedAt=1790839087164</g:additional_image_link>
+<g:availability>in_stock</g:availability>
+<g:color> Deep Titanium </g:color>
+<g:product_applicability>SPECIFIC_PRODUCTS</g:product_applicability>
+<g:offer_type>NO_CODE</g:offer_type>
+<g:redemption_channel>ONLINE</g:redemption_channel>
+<g:promotion_destination>SHOPPING_ADS</g:promotion_destination>
+<g:shipping>
+<g:country>IN</g:country>
+<g:price>79.0 INR</g:price>
+</g:shipping>
+</item>
+<item>
 <g:id>325306</g:id>
 <title>SCREEN life Tempered Glass for SAMSUNG Galaxy A17 (Fingerprint Resistant)</title>
 <description>Buy SCREEN life Tempered Glass for SAMSUNG Galaxy A17 (Fingerprint Resistant) online at best prices from Croma. Check product details, reviews &amp; more. Shop now!</description>
@@ -47684,6 +47718,36 @@ updated, stay happy! </description>
 <g:additional_image_link>https://media.tatacroma.com/Croma%20Assets/Communication/Wearable%20Devices/Images/325942_0_BC5kuG5I1.png?updatedAt=1789038866193</g:additional_image_link>
 <g:availability>in_stock</g:availability>
 <g:color> Black </g:color>
+<g:product_applicability>SPECIFIC_PRODUCTS</g:product_applicability>
+<g:offer_type>NO_CODE</g:offer_type>
+<g:redemption_channel>ONLINE</g:redemption_channel>
+<g:promotion_destination>SHOPPING_ADS</g:promotion_destination>
+<g:shipping>
+<g:country>IN</g:country>
+<g:price>49.0 INR</g:price>
+</g:shipping>
+</item>
+<item>
+<g:id>326714</g:id>
+<title>SENNHEISER MOMENTUM 5 TWS Earbuds with Hybrid Adaptive Active Noise Cancellation (AI-Powered Voice Isolation, Copper)</title>
+<description>Buy SENNHEISER MOMENTUM 5 TWS Earbuds with Hybrid Adaptive Active Noise Cancellation (AI-Powered Voice Isolation, Copper) online at best prices from Croma. Check product details, reviews &amp; more. Shop now!</description>
+<g:google_product_category>Electronics &gt; Audio &gt; Audio Components &gt; Headphones &amp; Headsets</g:google_product_category>
+<g:product_type>Audio &amp; Video&gt;Headphones &amp; Earphones&gt;Truly Wireless Earbuds</g:product_type>
+<g:custom_label_0>Audio &amp; Video</g:custom_label_0>
+<g:custom_label_1>Headphones &amp; Earphones</g:custom_label_1>
+<g:custom_label_2>Truly Wireless Earbuds</g:custom_label_2>
+<g:custom_label_3/>
+<g:custom_label_4/>
+<g:gtin>4260752332170</g:gtin>
+<link>https://www.croma.com/sennheiser-momentum-5-tws-earbuds-with-hybrid-adaptive-active-noise-cancellation-ai-powered-voice-isolation-copper-/p/326714</link>
+<g:price>34990.0 INR</g:price>
+<g:sale_price>29990.0 INR</g:sale_price>
+<g:brand>Sennheiser</g:brand>
+<g:condition>new</g:condition>
+<g:image_link>https://media.tatacroma.com/Croma%20Assets/Entertainment/Wireless%20Earbuds/Images/326714_0_WZ5BaU0Vyl.png?updatedAt=1790156826319</g:image_link>
+<g:additional_image_link>https://media.tatacroma.com/Croma%20Assets/Entertainment/Wireless%20Earbuds/Images/326714_0_WZ5BaU0Vyl.png?updatedAt=1790156826319</g:additional_image_link>
+<g:availability>in_stock</g:availability>
+<g:color> Copper </g:color>
 <g:product_applicability>SPECIFIC_PRODUCTS</g:product_applicability>
 <g:offer_type>NO_CODE</g:offer_type>
 <g:redemption_channel>ONLINE</g:redemption_channel>
@@ -52083,7 +52147,7 @@ updated, stay happy! </description>
 <g:gtin>5397184733790</g:gtin>
 <link>https://www.croma.com/dell-dc15255-amd-ryzen-5-notebook-laptop-8gb-512gb-ssd-windows-11-15-6-inch-full-hd-display-ms-office-home-2024-carbon-black-1-66-kg-/p/323047</link>
 <g:price>75489.0 INR</g:price>
-<g:sale_price>57990.0 INR</g:sale_price>
+<g:sale_price>61490.0 INR</g:sale_price>
 <g:brand>Dell</g:brand>
 <g:condition>new</g:condition>
 <g:image_link>https://media.tatacroma.com/Croma%20Assets/Computers%20Peripherals/Laptop/Images/323047_0_MjvaIgWRk.png?updatedAt=1787048919962</g:image_link>
@@ -52766,32 +52830,6 @@ updated, stay happy! </description>
 </g:shipping>
 </item>
 <item>
-<g:id>314646</g:id>
-<title>SAMSUNG TPU Card Slot Case for SAMSUNG Galaxy A36 5G (Wallet-free, Black)</title>
-<description>Buy SAMSUNG TPU Card Slot Case for SAMSUNG Galaxy A36 5G (Wallet-free, Black) online at best prices from Croma. Check product details, reviews &amp; more. Shop now!</description>
-<g:google_product_category>Electronics &gt; Communications &gt; Telephony &gt; Mobile Phone Accessories</g:google_product_category>
-<g:product_type>Phones &amp; Wearables&gt;Mobile Accessories&gt;Mobile Cover &amp; Cases</g:product_type>
-<g:custom_label_0>Phones &amp; Wearables</g:custom_label_0>
-<g:custom_label_1>Mobile Accessories</g:custom_label_1>
-<g:custom_label_2>Mobile Cover &amp; Cases</g:custom_label_2>
-<g:custom_label_3/>
-<g:custom_label_4/>
-<g:gtin>8806097100256</g:gtin>
-<link>https://www.croma.com/samsung-tpu-card-slot-case-for-samsung-galaxy-a36-5g-wallet-free-black-/p/314646</link>
-<g:price>1999.0 INR</g:price>
-<g:sale_price>1064.0 INR</g:sale_price>
-<g:brand>Samsung</g:brand>
-<g:condition>new</g:condition>
-<g:image_link>https://media.tatacroma.com/Croma%20Assets/Communication/Mobile%20Accessories/Images/314646_0_etxyot.png</g:image_link>
-<g:additional_image_link>https://media.tatacroma.com/Croma%20Assets/Communication/Mobile%20Accessories/Images/314646_0_etxyot.png</g:additional_image_link>
-<g:availability>in_stock</g:availability>
-<g:color> Black </g:color>
-<g:shipping>
-<g:country>IN</g:country>
-<g:price>29.0 INR</g:price>
-</g:shipping>
-</item>
-<item>
 <g:id>313250</g:id>
 <title>AGARO Alpha 3 Blade Rechargeable Personal Mini Fan with 4000 mAh Battery (Copper Brushless Motor, White)</title>
 <description>Buy AGARO Alpha 3 Blade Rechargeable Personal Mini Fan with 4000 mAh Battery (Copper Brushless Motor, White) online at best prices from Croma. Check product details, reviews &amp; more. Shop now!</description>
@@ -52812,6 +52850,32 @@ updated, stay happy! </description>
 <g:additional_image_link>https://media.tatacroma.com/Croma%20Assets/Small%20Appliances/Fans/Images/313250_nzal3g.png</g:additional_image_link>
 <g:availability>in_stock</g:availability>
 <g:color> White  </g:color>
+<g:shipping>
+<g:country>IN</g:country>
+<g:price>29.0 INR</g:price>
+</g:shipping>
+</item>
+<item>
+<g:id>314646</g:id>
+<title>SAMSUNG TPU Card Slot Case for SAMSUNG Galaxy A36 5G (Wallet-free, Black)</title>
+<description>Buy SAMSUNG TPU Card Slot Case for SAMSUNG Galaxy A36 5G (Wallet-free, Black) online at best prices from Croma. Check product details, reviews &amp; more. Shop now!</description>
+<g:google_product_category>Electronics &gt; Communications &gt; Telephony &gt; Mobile Phone Accessories</g:google_product_category>
+<g:product_type>Phones &amp; Wearables&gt;Mobile Accessories&gt;Mobile Cover &amp; Cases</g:product_type>
+<g:custom_label_0>Phones &amp; Wearables</g:custom_label_0>
+<g:custom_label_1>Mobile Accessories</g:custom_label_1>
+<g:custom_label_2>Mobile Cover &amp; Cases</g:custom_label_2>
+<g:custom_label_3/>
+<g:custom_label_4/>
+<g:gtin>8806097100256</g:gtin>
+<link>https://www.croma.com/samsung-tpu-card-slot-case-for-samsung-galaxy-a36-5g-wallet-free-black-/p/314646</link>
+<g:price>1999.0 INR</g:price>
+<g:sale_price>1064.0 INR</g:sale_price>
+<g:brand>Samsung</g:brand>
+<g:condition>new</g:condition>
+<g:image_link>https://media.tatacroma.com/Croma%20Assets/Communication/Mobile%20Accessories/Images/314646_0_etxyot.png</g:image_link>
+<g:additional_image_link>https://media.tatacroma.com/Croma%20Assets/Communication/Mobile%20Accessories/Images/314646_0_etxyot.png</g:additional_image_link>
+<g:availability>in_stock</g:availability>
+<g:color> Black </g:color>
 <g:shipping>
 <g:country>IN</g:country>
 <g:price>29.0 INR</g:price>
@@ -55263,7 +55327,7 @@ updated, stay happy! </description>
 <g:gtin>828132127712</g:gtin>
 <link>https://www.croma.com/lenovo-ideapad-slim-3-15amn8-amd-ryzen-3-30-notebook-laptop-8gb-512gb-ssd-windows-11-home-15-6-inch-fhd-lcd-display-ms-office-home-2024-arctic-grey-1-62-kg-/p/325235</link>
 <g:price>112990.0 INR</g:price>
-<g:sale_price>54990.0 INR</g:sale_price>
+<g:sale_price>55990.0 INR</g:sale_price>
 <g:brand>Lenovo</g:brand>
 <g:condition>new</g:condition>
 <g:image_link>https://media.tatacroma.com/Croma%20Assets/Computers%20Peripherals/Laptop/Images/325235_0_jxYvkNSbi.png?updatedAt=1786454549497</g:image_link>
@@ -55393,6 +55457,32 @@ updated, stay happy! </description>
 <g:shipping>
 <g:country>IN</g:country>
 <g:price>29.0 INR</g:price>
+</g:shipping>
+</item>
+<item>
+<g:id>312412</g:id>
+<title>SHOKZ OpenRun Pro 2 Bone Conduction Bluetooth Headphone with Active Noise Cancellation (IP55 Water Resistant, Quick Charge, Black)</title>
+<description>Buy SHOKZ OpenRun Pro 2 Bone Conduction Bluetooth Headphone with Active Noise Cancellation (IP55 Water Resistant, Quick Charge, Black) online at best prices from Croma. Check product details, reviews &amp; more. Shop now!</description>
+<g:google_product_category>Electronics &gt; Audio &gt; Audio Components &gt; Headphones &amp; Headsets</g:google_product_category>
+<g:product_type>Audio &amp; Video&gt;Headphones &amp; Earphones&gt;Bluetooth Headphones</g:product_type>
+<g:custom_label_0>Audio &amp; Video</g:custom_label_0>
+<g:custom_label_1>Headphones &amp; Earphones</g:custom_label_1>
+<g:custom_label_2>Bluetooth Headphones</g:custom_label_2>
+<g:custom_label_3/>
+<g:custom_label_4/>
+<g:gtin>0810092678922</g:gtin>
+<link>https://www.croma.com/shokz-openrun-pro-2-bone-conduction-bluetooth-headphone-with-active-noise-cancellation-ip55-water-resistant-quick-charge-black-/p/312412</link>
+<g:price>25799.0 INR</g:price>
+<g:sale_price>14399.0 INR</g:sale_price>
+<g:brand>Shokz</g:brand>
+<g:condition>new</g:condition>
+<g:image_link>https://media.tatacroma.com/Croma%20Assets/Entertainment/Headphones%20and%20Earphones/Images/312412_o3dgcq.png</g:image_link>
+<g:additional_image_link>https://media.tatacroma.com/Croma%20Assets/Entertainment/Headphones%20and%20Earphones/Images/312412_o3dgcq.png</g:additional_image_link>
+<g:availability>in_stock</g:availability>
+<g:color> Black </g:color>
+<g:shipping>
+<g:country>IN</g:country>
+<g:price>49.0 INR</g:price>
 </g:shipping>
 </item>
 <item>
@@ -56555,7 +56645,7 @@ updated, stay happy! </description>
 <g:gtin>8806097932666</g:gtin>
 <link>https://www.croma.com/samsung-ar50-5-in-1-convertible-1-5-ton-3-star-inverter-split-smart-ac-with-bespoke-ai-2026-model-copper-condenser-ar50h18d13hnna-/p/320447</link>
 <g:price>78990.0 INR</g:price>
-<g:sale_price>41490.0 INR</g:sale_price>
+<g:sale_price>38790.0 INR</g:sale_price>
 <g:brand>Samsung</g:brand>
 <g:condition>new</g:condition>
 <g:image_link>https://media.tatacroma.com/Croma%20Assets/Large%20Appliances/Air%20Conditioner/Images/320447_0_NDWtD-AKv.png?updatedAt=1774975760474</g:image_link>
@@ -56753,7 +56843,7 @@ updated, stay happy! </description>
 <g:gtin>8806096735268</g:gtin>
 <link>https://www.croma.com/lg-evo-ai-121-cm-48-inch-3-star-oled-4k-ultra-hd-smart-webos-tv-with-ambient-filmmaker-mode-2026-model-/p/322607</link>
 <g:price>159990.0 INR</g:price>
-<g:sale_price>98090.0 INR</g:sale_price>
+<g:sale_price>93890.0 INR</g:sale_price>
 <g:brand>LG</g:brand>
 <g:condition>new</g:condition>
 <g:image_link>https://media.tatacroma.com/Croma%20Assets/Entertainment/Television/Images/322607_0_jbphKhZ5-D.png?updatedAt=1789644298132</g:image_link>
@@ -57285,7 +57375,7 @@ updated, stay happy! </description>
 <g:gtin>8806096706992</g:gtin>
 <link>https://www.croma.com/lg-evo-ai-195-cm-77-inch-4-star-oled-4k-ultra-hd-smart-webos-tv-with-intelligent-voice-recognition-2026-model-/p/323184</link>
 <g:price>549990.0 INR</g:price>
-<g:sale_price>380090.0 INR</g:sale_price>
+<g:sale_price>374990.0 INR</g:sale_price>
 <g:brand>LG</g:brand>
 <g:condition>new</g:condition>
 <g:image_link>https://media.tatacroma.com/Croma%20Assets/Entertainment/Television/Images/323184_0_V-W2iL-QC.png?updatedAt=1789643258602</g:image_link>
@@ -57781,7 +57871,7 @@ updated, stay happy! </description>
 <g:gtin>8904134269123</g:gtin>
 <link>https://www.croma.com/godrej-y-series-convertible-1-5-ton-3-star-inverter-split-ac-with-i-sense-technology-2026-model-blue-fin-condenser-hic-18y3tg-/p/321407</link>
 <g:price>45300.0 INR</g:price>
-<g:sale_price>35490.0 INR</g:sale_price>
+<g:sale_price>34990.0 INR</g:sale_price>
 <g:brand>Godrej</g:brand>
 <g:condition>new</g:condition>
 <g:image_link>https://media.tatacroma.com/Croma%20Assets/Large%20Appliances/Air%20Conditioner/Images/321407_0_rBF6IObII.png?updatedAt=1772018904955</g:image_link>
@@ -58017,7 +58107,7 @@ updated, stay happy! </description>
 <g:gtin>8806096794197</g:gtin>
 <link>https://www.croma.com/lg-qned82-190-cm-75-inch-3-star-qned-mini-led-4k-ultra-hd-smart-webos-tv-with-ambient-filmmaker-mode-2026-model-/p/322857</link>
 <g:price>219990.0 INR</g:price>
-<g:sale_price>128990.0 INR</g:sale_price>
+<g:sale_price>120390.0 INR</g:sale_price>
 <g:brand>LG</g:brand>
 <g:condition>new</g:condition>
 <g:image_link>https://media.tatacroma.com/Croma%20Assets/Entertainment/Television/Images/322857_0_Q1sWuyAXn.png?updatedAt=1789643499623</g:image_link>
@@ -59206,7 +59296,7 @@ updated, stay happy! </description>
 <g:gtin>8901876022764</g:gtin>
 <link>https://www.croma.com/croma-140-cm-55-inch-led-4k-ultra-hd-google-tv-with-dolby-audio/p/306786</link>
 <g:price>47900.0 INR</g:price>
-<g:sale_price>42990.0 INR</g:sale_price>
+<g:sale_price>38990.0 INR</g:sale_price>
 <g:brand>Croma</g:brand>
 <g:condition>new</g:condition>
 <g:image_link>https://media.tatacroma.com/Croma%20Assets/Entertainment/Television/Images/306786_ijhpnd.png</g:image_link>
@@ -59385,7 +59475,7 @@ updated, stay happy! </description>
 <g:gtin>8806097832614</g:gtin>
 <link>https://www.croma.com/samsung-ar60-5-in-1-convertible-1-5-ton-3-star-inverter-split-smart-ac-with-voice-assistant-2026-model-copper-condenser-ar60h19d13wnna-/p/320456</link>
 <g:price>83990.0 INR</g:price>
-<g:sale_price>44690.0 INR</g:sale_price>
+<g:sale_price>41990.0 INR</g:sale_price>
 <g:brand>Samsung</g:brand>
 <g:condition>new</g:condition>
 <g:image_link>https://media.tatacroma.com/Croma%20Assets/Large%20Appliances/Air%20Conditioner/Images/320456_0_QldOMq5xO.png?updatedAt=1774975719244</g:image_link>
@@ -59508,6 +59598,36 @@ updated, stay happy! </description>
 <g:additional_image_link>https://media.tatacroma.com/Croma%20Assets/Small%20Appliances/Stoves%20Cooktops/Images/230396_0_ibfqqq.png</g:additional_image_link>
 <g:availability>in_stock</g:availability>
 <g:color> Black </g:color>
+<g:shipping>
+<g:country>IN</g:country>
+<g:price>49.0 INR</g:price>
+</g:shipping>
+</item>
+<item>
+<g:id>230098</g:id>
+<title>elica 65L 60cm Built-in Microwave with Default Temperature (EPBI 865 MMF, Black)</title>
+<description>Buy elica 65L 60cm Built-in Microwave with Default Temperature (EPBI 865 MMF, Black) online at best prices from Croma. Check product details, reviews &amp; more. Shop now!</description>
+<g:google_product_category>Home &amp; Garden &gt; Kitchen &amp; Dining &gt; Kitchen Appliances &gt; Microwave Ovens</g:google_product_category>
+<g:product_type>Kitchen Appliances&gt;Microwave &amp; Ovens&gt;Built-in Microwave Ovens</g:product_type>
+<g:custom_label_0>Kitchen Appliances</g:custom_label_0>
+<g:custom_label_1>Microwave &amp; Ovens</g:custom_label_1>
+<g:custom_label_2>Built-in Microwave Ovens</g:custom_label_2>
+<g:custom_label_3/>
+<g:custom_label_4/>
+<g:gtin>8906114041637</g:gtin>
+<link>https://www.croma.com/elica-65l-60cm-built-in-microwave-with-default-temperature-epbi-865-mmf-black-/p/230098</link>
+<g:price>44990.0 INR</g:price>
+<g:sale_price>34790.0 INR</g:sale_price>
+<g:brand>Elica</g:brand>
+<g:condition>new</g:condition>
+<g:image_link>https://media.tatacroma.com/Croma%20Assets/Small%20Appliances/Microwave%20or%20OTG/Images/230098_0_sxjxur.png</g:image_link>
+<g:additional_image_link>https://media.tatacroma.com/Croma%20Assets/Small%20Appliances/Microwave%20or%20OTG/Images/230098_0_sxjxur.png</g:additional_image_link>
+<g:availability>in_stock</g:availability>
+<g:color> Black </g:color>
+<g:product_applicability>SPECIFIC_PRODUCTS</g:product_applicability>
+<g:offer_type>NO_CODE</g:offer_type>
+<g:redemption_channel>ONLINE</g:redemption_channel>
+<g:promotion_destination>SHOPPING_ADS</g:promotion_destination>
 <g:shipping>
 <g:country>IN</g:country>
 <g:price>49.0 INR</g:price>
@@ -59987,7 +60107,7 @@ updated, stay happy! </description>
 <g:gtin>8806096741733</g:gtin>
 <link>https://www.croma.com/lg-nanocell-ai-nu885-190-cm-75-inch-3-star-4k-ultra-hd-smart-webos-tv-with-intelligent-voice-recognition-2026-model-/p/323188</link>
 <g:price>179990.0 INR</g:price>
-<g:sale_price>91590.0 INR</g:sale_price>
+<g:sale_price>86990.0 INR</g:sale_price>
 <g:brand>LG</g:brand>
 <g:condition>new</g:condition>
 <g:image_link>https://media.tatacroma.com/Croma%20Assets/Entertainment/Television/Images/323188_0_RPV_e7Ta_m.png?updatedAt=1789643178018</g:image_link>
@@ -60054,32 +60174,6 @@ updated, stay happy! </description>
 <g:additional_image_link>https://media.tatacroma.com/Croma%20Assets/Small%20Appliances/Geysers/Images/316247_0_8WnRJO10Ce.png?updatedAt=1753355656114</g:additional_image_link>
 <g:availability>in_stock</g:availability>
 <g:color> White &amp; Blue </g:color>
-<g:shipping>
-<g:country>IN</g:country>
-<g:price>49.0 INR</g:price>
-</g:shipping>
-</item>
-<item>
-<g:id>319391</g:id>
-<title>HAVELLS Mirak 6L UV + UF Water Purifier with Smart Indicators (Black)</title>
-<description>Buy HAVELLS Mirak 6L UV + UF Water Purifier with Smart Indicators (Black) online at best prices from Croma. Check product details, reviews &amp; more. Shop now!</description>
-<g:google_product_category>Hardware &gt; Plumbing &gt; Water Dispensing &amp; Filtration &gt; Water Dispensers</g:google_product_category>
-<g:product_type>Kitchen Appliances&gt;Water Purifiers &amp; Dispensers&gt;Water Purifiers</g:product_type>
-<g:custom_label_0>Kitchen Appliances</g:custom_label_0>
-<g:custom_label_1>Water Purifiers &amp; Dispensers</g:custom_label_1>
-<g:custom_label_2>Water Purifiers</g:custom_label_2>
-<g:custom_label_3/>
-<g:custom_label_4/>
-<g:gtin>8901762177202</g:gtin>
-<link>https://www.croma.com/havells-mirak-6l-uv-+-uf-water-purifier-with-smart-indicators-black-/p/319391</link>
-<g:price>17490.0 INR</g:price>
-<g:sale_price>9890.0 INR</g:sale_price>
-<g:brand>Havells</g:brand>
-<g:condition>new</g:condition>
-<g:image_link>https://media.tatacroma.com/Croma%20Assets/Small%20Appliances/Water%20Purifier/Images/319391_0_DUnBYJbAi.png?updatedAt=1761654011232</g:image_link>
-<g:additional_image_link>https://media.tatacroma.com/Croma%20Assets/Small%20Appliances/Water%20Purifier/Images/319391_0_DUnBYJbAi.png?updatedAt=1761654011232</g:additional_image_link>
-<g:availability>in_stock</g:availability>
-<g:color> Black </g:color>
 <g:shipping>
 <g:country>IN</g:country>
 <g:price>49.0 INR</g:price>
@@ -60446,7 +60540,7 @@ updated, stay happy! </description>
 <g:gtin>8903124021857</g:gtin>
 <link>https://www.croma.com/haier-gravity-heavy-duty-ai-plus-convertible-1-6-ton-3-star-inverter-split-ac-with-4-way-swing-copper-condenser-hsa20ghd-mai3nb-i-/p/321006</link>
 <g:price>77000.0 INR</g:price>
-<g:sale_price>43490.0 INR</g:sale_price>
+<g:sale_price>42990.0 INR</g:sale_price>
 <g:brand>Haier</g:brand>
 <g:condition>new</g:condition>
 <g:image_link>https://media.tatacroma.com/Croma%20Assets/Large%20Appliances/Air%20Conditioner/Images/321006_0_fbMhpfgYx.png?updatedAt=1774975747715</g:image_link>
@@ -60506,7 +60600,7 @@ updated, stay happy! </description>
 <g:gtin>8903470050488</g:gtin>
 <link>https://www.croma.com/voltas-123inv-vertis-crest-marvel-convertible-1-ton-3-star-inverter-split-ac-with-hidden-display-2026-model-copper-condenser-4504151-/p/321296</link>
 <g:price>55990.0 INR</g:price>
-<g:sale_price>34990.0 INR</g:sale_price>
+<g:sale_price>33990.0 INR</g:sale_price>
 <g:brand>Voltas</g:brand>
 <g:condition>new</g:condition>
 <g:image_link>https://media.tatacroma.com/Croma%20Assets/Large%20Appliances/Air%20Conditioner/Images/321296_0_DObg9fj-S.png?updatedAt=1774975662107</g:image_link>
@@ -60686,7 +60780,7 @@ updated, stay happy! </description>
 <g:gtin>8901876025758</g:gtin>
 <link>https://www.croma.com/croma-165-cm-65-inch-2-star-qled-4k-ultra-hd-smart-google-tv-5-0-with-dolby-vision-dolby-atmos-2025-model-/p/316505</link>
 <g:price>83500.0 INR</g:price>
-<g:sale_price>62990.0 INR</g:sale_price>
+<g:sale_price>60990.0 INR</g:sale_price>
 <g:brand>Croma</g:brand>
 <g:condition>new</g:condition>
 <g:image_link>https://media.tatacroma.com/Croma%20Assets/Entertainment/Television/Images/316505_0_c3F3a8-pJt.png?updatedAt=1754313292156</g:image_link>
@@ -60950,7 +61044,7 @@ updated, stay happy! </description>
 <g:gtin>8904239829062</g:gtin>
 <link>https://www.croma.com/blue-star-c-series-5-in-1-convertible-1-5-ton-3-star-inverter-split-smart-ac-with-voice-command-technology-2026-model-blue-fin-condenser-ic318mxus-/p/323666</link>
 <g:price>61500.0 INR</g:price>
-<g:sale_price>40990.0 INR</g:sale_price>
+<g:sale_price>39990.0 INR</g:sale_price>
 <g:brand>Blue Star</g:brand>
 <g:condition>new</g:condition>
 <g:image_link>https://media.tatacroma.com/Croma%20Assets/Large%20Appliances/Air%20Conditioner/Images/323666_0_b5bEuq9wd.png?updatedAt=1782291174304</g:image_link>
@@ -61322,6 +61416,35 @@ updated, stay happy! </description>
 <g:condition>new</g:condition>
 <g:image_link>https://media.tatacroma.com/Croma%20Assets/Small%20Appliances/Stoves%20Cooktops/Images/230375_0_mkes8d.png</g:image_link>
 <g:additional_image_link>https://media.tatacroma.com/Croma%20Assets/Small%20Appliances/Stoves%20Cooktops/Images/230375_0_mkes8d.png</g:additional_image_link>
+<g:availability>in_stock</g:availability>
+<g:color> Black </g:color>
+<g:product_applicability>SPECIFIC_PRODUCTS</g:product_applicability>
+<g:offer_type>NO_CODE</g:offer_type>
+<g:redemption_channel>ONLINE</g:redemption_channel>
+<g:promotion_destination>SHOPPING_ADS</g:promotion_destination>
+<g:shipping>
+<g:country>IN</g:country>
+<g:price>49.0 INR</g:price>
+</g:shipping>
+</item>
+<item>
+<g:id>261913</g:id>
+<title>elica ISMART EFL 75 HAC LTW 75cm Ductless Auto Clean Wall Mounted Chimney with Powerful Suction (Black)</title>
+<description>Buy elica ISMART EFL 75 HAC LTW 75cm Ducted Auto Clean Wall Mounted Chimney with Powerful Suction (Black) online at best prices from Croma. Check product details, reviews &amp; more. Shop now!</description>
+<g:google_product_category>Home &amp; Garden &gt; Kitchen &amp; Dining &gt; Kitchen Appliance Accessories</g:google_product_category>
+<g:product_type>Kitchen Appliances&gt;Electric Chimneys</g:product_type>
+<g:custom_label_0>Kitchen Appliances</g:custom_label_0>
+<g:custom_label_1>Electric Chimneys</g:custom_label_1>
+<g:custom_label_3/>
+<g:custom_label_4/>
+<g:gtin>8906114046847</g:gtin>
+<link>https://www.croma.com/elica-ismart-efl-75-hac-ltw-75cm-ductless-auto-clean-wall-mounted-chimney-with-powerful-suction-black-/p/261913</link>
+<g:price>68990.0 INR</g:price>
+<g:sale_price>45490.0 INR</g:sale_price>
+<g:brand>Elica</g:brand>
+<g:condition>new</g:condition>
+<g:image_link>https://media.tatacroma.com/Croma%20Assets/Small%20Appliances/Electric%20Chimney/Images/261913_0_lx9pm2.png</g:image_link>
+<g:additional_image_link>https://media.tatacroma.com/Croma%20Assets/Small%20Appliances/Electric%20Chimney/Images/261913_0_lx9pm2.png</g:additional_image_link>
 <g:availability>in_stock</g:availability>
 <g:color> Black </g:color>
 <g:product_applicability>SPECIFIC_PRODUCTS</g:product_applicability>
@@ -62424,7 +62547,7 @@ updated, stay happy! </description>
 <g:gtin>8806097697015</g:gtin>
 <link>https://www.croma.com/samsung-sound-tower-st40f-160w-bluetooth-party-speaker-ipx4-water-resistant-stereo-channel-black-/p/320528</link>
 <g:price>31990.0 INR</g:price>
-<g:sale_price>25299.0 INR</g:sale_price>
+<g:sale_price>24999.0 INR</g:sale_price>
 <g:brand>Samsung</g:brand>
 <g:condition>new</g:condition>
 <g:image_link>https://media.tatacroma.com/Croma%20Assets/Communication/Speakers%20and%20Media%20Players/Images/320528_0_nJH4eslJd.png?updatedAt=1784608597718</g:image_link>
@@ -62935,7 +63058,7 @@ updated, stay happy! </description>
 <g:gtin>8806096769928</g:gtin>
 <link>https://www.croma.com/lg-qned70-190-cm-75-inch-3-star-qned-mini-led-4k-ultra-hd-smart-webos-tv-with-4k-super-upscaling-2026-model-/p/322856</link>
 <g:price>199990.0 INR</g:price>
-<g:sale_price>107290.0 INR</g:sale_price>
+<g:sale_price>106890.0 INR</g:sale_price>
 <g:brand>LG</g:brand>
 <g:condition>new</g:condition>
 <g:image_link>https://media.tatacroma.com/Croma%20Assets/Entertainment/Television/Images/322856_0_PGlAwUnDz.png?updatedAt=1789643530450</g:image_link>
@@ -62965,7 +63088,7 @@ updated, stay happy! </description>
 <g:gtin>8901876028322</g:gtin>
 <link>https://www.croma.com/croma-109-cm-43-inch-1-star-qled-4k-ultra-hd-smart-google-tv-with-dolby-vision-dolby-atmos-2026-model-/p/322842</link>
 <g:price>38500.0 INR</g:price>
-<g:sale_price>29990.0 INR</g:sale_price>
+<g:sale_price>28990.0 INR</g:sale_price>
 <g:brand>Croma</g:brand>
 <g:condition>new</g:condition>
 <g:image_link>https://media.tatacroma.com/Croma%20Assets/Entertainment/Television/Images/322842_0_I5QN50yJ0.png?updatedAt=1787029290922</g:image_link>
@@ -65796,7 +65919,7 @@ updated, stay happy! </description>
 <g:gtin>8806096787571</g:gtin>
 <link>https://www.croma.com/lg-evo-ai-210-cm-83-inch-4-star-oled-4k-ultra-hd-smart-webos-tv-with-intelligent-voice-recognition-2026-model-/p/323182</link>
 <g:price>749990.0 INR</g:price>
-<g:sale_price>526390.0 INR</g:sale_price>
+<g:sale_price>524690.0 INR</g:sale_price>
 <g:brand>LG</g:brand>
 <g:condition>new</g:condition>
 <g:image_link>https://media.tatacroma.com/Croma%20Assets/Entertainment/Television/Images/323182_0_8KrHRPodVu.png?updatedAt=1789643289999</g:image_link>
@@ -66698,7 +66821,7 @@ updated, stay happy! </description>
 <g:gtin>8903124029303</g:gtin>
 <link>https://www.croma.com/haier-p7-pro-109-22-cm-43-inch-3-star-4k-ultra-hd-qled-smart-google-tv-with-google-voice-assistant-2026-model-/p/323808</link>
 <g:price>59990.0 INR</g:price>
-<g:sale_price>37090.0 INR</g:sale_price>
+<g:sale_price>36890.0 INR</g:sale_price>
 <g:brand>Haier</g:brand>
 <g:condition>new</g:condition>
 <g:image_link>https://media.tatacroma.com/Croma%20Assets/Entertainment/Television/Images/323808_0_YhDzPoeln.png?updatedAt=1783058939056</g:image_link>
@@ -66757,7 +66880,7 @@ updated, stay happy! </description>
 <g:gtin>8806097993254</g:gtin>
 <link>https://www.croma.com/samsung-q-series-400w-bluetooth-soundbar-with-remote-wireless-dolby-atmos-5-1-2-channel-black-/p/323118</link>
 <g:price>59900.0 INR</g:price>
-<g:sale_price>43499.0 INR</g:sale_price>
+<g:sale_price>42499.0 INR</g:sale_price>
 <g:brand>Samsung</g:brand>
 <g:condition>new</g:condition>
 <g:image_link>https://media.tatacroma.com/Croma%20Assets/Entertainment/Home%20Theatres%20and%20Audio%20Systems/Images/323118_0_MtSs_nw-I.png?updatedAt=1778152069375</g:image_link>
@@ -67276,7 +67399,7 @@ updated, stay happy! </description>
 <g:gtin>8887549900655</g:gtin>
 <link>https://www.croma.com/panasonic-eu-8-in-1-convertible-1-ton-3-star-inverter-split-smart-ac-with-google-alexa-voice-assistant-2026-model-copper-condenser-cs-cu-eu12cky3fm-/p/320876</link>
 <g:price>53000.0 INR</g:price>
-<g:sale_price>40990.0 INR</g:sale_price>
+<g:sale_price>37990.0 INR</g:sale_price>
 <g:brand>Panasonic</g:brand>
 <g:condition>new</g:condition>
 <g:image_link>https://media.tatacroma.com/Croma%20Assets/Large%20Appliances/Air%20Conditioner/Images/320876_0_BIoWzkIB0.png?updatedAt=1774975672072</g:image_link>
@@ -67722,7 +67845,7 @@ updated, stay happy! </description>
 <g:gtin>8903124021970</g:gtin>
 <link>https://www.croma.com/haier-desert-rose-convertible-2-2-ton-3-star-inverter-split-ac-with-4-way-swing-copper-condenser-hsa72dsd-gai3nb-i-/p/321229</link>
 <g:price>91300.0 INR</g:price>
-<g:sale_price>63490.0 INR</g:sale_price>
+<g:sale_price>59990.0 INR</g:sale_price>
 <g:brand>Haier</g:brand>
 <g:condition>new</g:condition>
 <g:image_link>https://media.tatacroma.com/Croma%20Assets/Large%20Appliances/Air%20Conditioner/Images/321229_0_5EAh66MSB.png?updatedAt=1783937872989</g:image_link>
@@ -68652,7 +68775,7 @@ updated, stay happy! </description>
 <g:gtin>8806096691922</g:gtin>
 <link>https://www.croma.com/lg-evo-ai-165-cm-65-inch-3-star-qned-mini-led-4k-ultra-hd-smart-webos-tv-with-intelligent-voice-recognition-2026-model-/p/322610</link>
 <g:price>156990.0 INR</g:price>
-<g:sale_price>104990.0 INR</g:sale_price>
+<g:sale_price>104290.0 INR</g:sale_price>
 <g:brand>LG</g:brand>
 <g:condition>new</g:condition>
 <g:image_link>https://media.tatacroma.com/Croma%20Assets/Entertainment/Television/Images/322610_0_cmJ-3YCBH.png?updatedAt=1789643654559</g:image_link>
@@ -69189,7 +69312,7 @@ updated, stay happy! </description>
 <g:gtin>8806096701799</g:gtin>
 <link>https://www.croma.com/lg-evo-ai-190-cm-75-inch-4-star-qned-mini-led-4k-ultra-hd-smart-webos-tv-with-intelligent-voice-recognition-2026-model-/p/322609</link>
 <g:price>249990.0 INR</g:price>
-<g:sale_price>142990.0 INR</g:sale_price>
+<g:sale_price>142590.0 INR</g:sale_price>
 <g:brand>LG</g:brand>
 <g:condition>new</g:condition>
 <g:image_link>https://media.tatacroma.com/Croma%20Assets/Entertainment/Television/Images/322609_0_ceHNrP1U3B.png?updatedAt=1789644266543</g:image_link>
@@ -70272,6 +70395,36 @@ updated, stay happy! </description>
 </g:shipping>
 </item>
 <item>
+<g:id>321449</g:id>
+<title>Haier 190 Litres 3 Star Direct Cool Single Door Refrigerator with Stabilizer Free Operation (HRD-2113BBSA-N, Brushline Silver) (2026 Model) (2026 Model)</title>
+<description>Buy Haier 190 Litres 3 Star Direct Cool Single Door Refrigerator with Stabilizer Free Operation (HRD-2113BBSA-N, Brushline Silver) online at best prices from Croma. Check product details, reviews &amp; more. Shop now!</description>
+<g:google_product_category>Home &amp; Garden &gt; Kitchen &amp; Dining &gt; Kitchen Appliances &gt; Refrigerators</g:google_product_category>
+<g:product_type>Home Appliances&gt;Refrigerators &amp; Freezers&gt;Single Door Refrigerators</g:product_type>
+<g:custom_label_0>Home Appliances</g:custom_label_0>
+<g:custom_label_1>Refrigerators &amp; Freezers</g:custom_label_1>
+<g:custom_label_2>Single Door Refrigerators</g:custom_label_2>
+<g:custom_label_3/>
+<g:custom_label_4/>
+<g:gtin>8903124025770</g:gtin>
+<link>https://www.croma.com/haier-190-litres-3-star-direct-cool-single-door-refrigerator-with-stabilizer-free-operation-hrd-2113bbsa-n-brushline-silver-2026-model-2026-model-/p/321449</link>
+<g:price>24190.0 INR</g:price>
+<g:sale_price>15290.0 INR</g:sale_price>
+<g:brand>Haier</g:brand>
+<g:condition>new</g:condition>
+<g:image_link>https://media.tatacroma.com/Croma%20Assets/Large%20Appliances/Refrigerator/Images/321449_0_FRpNOQg7z.png?updatedAt=1775440034940</g:image_link>
+<g:additional_image_link>https://media.tatacroma.com/Croma%20Assets/Large%20Appliances/Refrigerator/Images/321449_0_FRpNOQg7z.png?updatedAt=1775440034940</g:additional_image_link>
+<g:availability>in_stock</g:availability>
+<g:color> Brushline Silver </g:color>
+<g:product_applicability>SPECIFIC_PRODUCTS</g:product_applicability>
+<g:offer_type>NO_CODE</g:offer_type>
+<g:redemption_channel>ONLINE</g:redemption_channel>
+<g:promotion_destination>SHOPPING_ADS</g:promotion_destination>
+<g:shipping>
+<g:country>IN</g:country>
+<g:price>129.0 INR</g:price>
+</g:shipping>
+</item>
+<item>
 <g:id>323698</g:id>
 <title>Faber Verona HD904 CI FFD AI Glass Top 4 Burner Automatic Hob (3D Flame Technology, Matt Black &amp; Gold)</title>
 <description>Buy Faber Verona HD904 CI FFD AI Glass Top 4 Burner Automatic Hob (3D Flame Technology, Matt Black &amp; Gold) online at best prices from Croma. Check product details, reviews &amp; more. Shop now!</description>
@@ -71244,7 +71397,7 @@ updated, stay happy! </description>
 <g:gtin>8903124023929</g:gtin>
 <link>https://www.croma.com/haier-elegante-heavy-duty-ai-plus-convertible-2-ton-3-star-inverter-split-ac-with-4-way-swing-copper-condenser-hsa24ehd-sai3nb-i-/p/321046</link>
 <g:price>82900.0 INR</g:price>
-<g:sale_price>53490.0 INR</g:sale_price>
+<g:sale_price>51990.0 INR</g:sale_price>
 <g:brand>Haier</g:brand>
 <g:condition>new</g:condition>
 <g:image_link>https://media.tatacroma.com/Croma%20Assets/Large%20Appliances/Air%20Conditioner/Images/321046_0_Hfe4IwTjn.png?updatedAt=1774975680622</g:image_link>
@@ -71501,7 +71654,7 @@ updated, stay happy! </description>
 <g:internal_label>['edlp']</g:internal_label><g:gtin>8901876028605</g:gtin>
 <link>https://www.croma.com/croma-80-cm-32-inch-1-star-hd-ready-led-tv-with-bezel-less-display-2026-model-/p/323781</link>
 <g:price>13000.0 INR</g:price>
-<g:sale_price>9490.0 INR</g:sale_price>
+<g:sale_price>8990.0 INR</g:sale_price>
 <g:brand>Croma</g:brand>
 <g:condition>new</g:condition>
 <g:image_link>https://media.tatacroma.com/Croma%20Assets/Entertainment/Television/Images/323781_0_4eZehZSF4.png?updatedAt=1789112245771</g:image_link>
@@ -73322,7 +73475,7 @@ updated, stay happy! </description>
 <g:gtin>8901876028193</g:gtin>
 <link>https://www.croma.com/croma-140-cm-55-inch-2-star-qled-4k-ultra-hd-smart-google-tv-with-google-voice-assistant-2026-model-/p/322517</link>
 <g:price>67500.0 INR</g:price>
-<g:sale_price>45990.0 INR</g:sale_price>
+<g:sale_price>42990.0 INR</g:sale_price>
 <g:brand>Croma</g:brand>
 <g:condition>new</g:condition>
 <g:image_link>https://media.tatacroma.com/Croma%20Assets/Entertainment/Television/322517_0_3RXFUFhQp.png?updatedAt=1779775686301</g:image_link>
@@ -73472,7 +73625,7 @@ updated, stay happy! </description>
 <g:gtin>8806097069171</g:gtin>
 <link>https://www.croma.com/samsung-b-series-300w-bluetooth-soundbar-with-remote-dolby-audio-2-1-channel-titan-black-/p/318928</link>
 <g:price>19990.0 INR</g:price>
-<g:sale_price>14999.0 INR</g:sale_price>
+<g:sale_price>14499.0 INR</g:sale_price>
 <g:brand>Samsung</g:brand>
 <g:condition>new</g:condition>
 <g:image_link>https://media.tatacroma.com/Croma%20Assets/Entertainment/Speakers%20and%20Media%20Players/Images/318928_0_jZM_6TyuL.png?updatedAt=1758117822743</g:image_link>
@@ -73751,7 +73904,7 @@ updated, stay happy! </description>
 <g:gtin>8806096741764</g:gtin>
 <link>https://www.croma.com/lg-nanocell-ai-nu885-215-cm-85-inch-4-star-4k-ultra-hd-smart-webos-tv-with-intelligent-voice-recognition-2026-model-/p/323187</link>
 <g:price>349990.0 INR</g:price>
-<g:sale_price>168090.0 INR</g:sale_price>
+<g:sale_price>166590.0 INR</g:sale_price>
 <g:brand>LG</g:brand>
 <g:condition>new</g:condition>
 <g:image_link>https://media.tatacroma.com/Croma%20Assets/Entertainment/Television/Images/323187_0_mD93kMvJG.png?updatedAt=1789643195218</g:image_link>
@@ -73811,7 +73964,7 @@ updated, stay happy! </description>
 <g:gtin>8806096691946</g:gtin>
 <link>https://www.croma.com/lg-evo-ai-140-cm-55-inch-3-star-qned-mini-led-4k-ultra-hd-smart-webos-tv-with-intelligent-voice-recognition-2026-model-/p/322602</link>
 <g:price>129990.0 INR</g:price>
-<g:sale_price>70690.0 INR</g:sale_price>
+<g:sale_price>69690.0 INR</g:sale_price>
 <g:brand>LG</g:brand>
 <g:condition>new</g:condition>
 <g:image_link>https://media.tatacroma.com/Croma%20Assets/GIF/322602_0_nPNuebzFf.gif?updatedAt=1785827984797</g:image_link>
@@ -73871,7 +74024,7 @@ updated, stay happy! </description>
 <g:gtin>8806096741696</g:gtin>
 <link>https://www.croma.com/lg-qned82-140-cm-55-inch-2-star-qned-mini-led-4k-ultra-hd-smart-webos-tv-with-ambient-filmmaker-mode-2026-model-/p/322853</link>
 <g:price>109990.0 INR</g:price>
-<g:sale_price>62490.0 INR</g:sale_price>
+<g:sale_price>60490.0 INR</g:sale_price>
 <g:brand>LG</g:brand>
 <g:condition>new</g:condition>
 <g:image_link>https://media.tatacroma.com/Croma%20Assets/Entertainment/Television/Images/322853_0_RBVoLBFVzM.png?updatedAt=1789643608210</g:image_link>
@@ -74293,6 +74446,35 @@ updated, stay happy! </description>
 </g:shipping>
 </item>
 <item>
+<g:id>313513</g:id>
+<title>elica EFL 3V 601 BLDC HAC LTW MS NERO 60cm 1500m3/hr Ductless Auto Clean Cabinet/Hob Mounted Chimney with Motion Sensor Control (Black)</title>
+<description>Buy elica EFL 3V 601 BLDC HAC LTW MS NERO 60cm 1500m3/hr Ducted Auto Clean Cabinet/Hob Mounted Chimney with Motion Sensor Control (Black) online at best prices from Croma. Check product details, reviews &amp; more. Shop now!</description>
+<g:google_product_category>Home &amp; Garden &gt; Kitchen &amp; Dining &gt; Kitchen Appliance Accessories</g:google_product_category>
+<g:product_type>Kitchen Appliances&gt;Electric Chimneys</g:product_type>
+<g:custom_label_0>Kitchen Appliances</g:custom_label_0>
+<g:custom_label_1>Electric Chimneys</g:custom_label_1>
+<g:custom_label_3/>
+<g:custom_label_4/>
+<g:gtin>8906078927824</g:gtin>
+<link>https://www.croma.com/elica-efl-3v-601-bldc-hac-ltw-ms-nero-60cm-1500m3-hr-ductless-auto-clean-cabinet-hob-mounted-chimney-with-motion-sensor-control-black-/p/313513</link>
+<g:price>43990.0 INR</g:price>
+<g:sale_price>20590.0 INR</g:sale_price>
+<g:brand>Elica</g:brand>
+<g:condition>new</g:condition>
+<g:image_link>https://media.tatacroma.com/Croma%20Assets/Small%20Appliances/Electric%20Chimney/Images/313513_0_vm6bls.png</g:image_link>
+<g:additional_image_link>https://media.tatacroma.com/Croma%20Assets/Small%20Appliances/Electric%20Chimney/Images/313513_0_vm6bls.png</g:additional_image_link>
+<g:availability>in_stock</g:availability>
+<g:color> Black </g:color>
+<g:product_applicability>SPECIFIC_PRODUCTS</g:product_applicability>
+<g:offer_type>NO_CODE</g:offer_type>
+<g:redemption_channel>ONLINE</g:redemption_channel>
+<g:promotion_destination>SHOPPING_ADS</g:promotion_destination>
+<g:shipping>
+<g:country>IN</g:country>
+<g:price>49.0 INR</g:price>
+</g:shipping>
+</item>
+<item>
 <g:id>311095</g:id>
 <title>Croma 25 Litres 5 Star Vertical Storage Geyser with LED Display (White)</title>
 <description>Buy Croma 25 Litres 5 Star Vertical Storage Geyser with LED Display (White) online at best prices from Croma. Check product details, reviews &amp; more. Shop now!</description>
@@ -74452,7 +74634,7 @@ updated, stay happy! </description>
 <g:gtin>8806097993247</g:gtin>
 <link>https://www.croma.com/samsung-q-series-320w-bluetooth-soundbar-with-remote-wireless-dolby-atmos-3-1-2-channel-titan-black-/p/322872</link>
 <g:price>39900.0 INR</g:price>
-<g:sale_price>29999.0 INR</g:sale_price>
+<g:sale_price>29499.0 INR</g:sale_price>
 <g:brand>Samsung</g:brand>
 <g:condition>new</g:condition>
 <g:image_link>https://media.tatacroma.com/Croma%20Assets/Entertainment/Speakers%20and%20Media%20Players/Images/322872_0_9rTIcLH2H.png?updatedAt=1778070407980</g:image_link>
@@ -74512,7 +74694,7 @@ updated, stay happy! </description>
 <g:gtin>8901876025932</g:gtin>
 <link>https://www.croma.com/croma-109-43-inch-1-star-full-hd-smart-google-tv-5-0-with-dolby-audio/p/317120</link>
 <g:price>25000.0 INR</g:price>
-<g:sale_price>24990.0 INR</g:sale_price>
+<g:sale_price>24490.0 INR</g:sale_price>
 <g:brand>Croma</g:brand>
 <g:condition>new</g:condition>
 <g:image_link>https://media.tatacroma.com/Croma%20Assets/Entertainment/Television/Images/317120_0_O3HRrXUUR.png?updatedAt=1754472645751</g:image_link>
@@ -75959,7 +76141,7 @@ updated, stay happy! </description>
 <g:gtin>8806096732649</g:gtin>
 <link>https://www.croma.com/lg-qned82-165-cm-65-inch-3-star-qned-mini-led-4k-ultra-hd-smart-webos-tv-with-ambient-filmmaker-mode-2026-model-/p/322855</link>
 <g:price>149990.0 INR</g:price>
-<g:sale_price>93090.0 INR</g:sale_price>
+<g:sale_price>88990.0 INR</g:sale_price>
 <g:brand>LG</g:brand>
 <g:condition>new</g:condition>
 <g:image_link>https://media.tatacroma.com/Croma%20Assets/Entertainment/Television/Images/322855_0_wiFRAmzH4F.png?updatedAt=1789643545594</g:image_link>
@@ -75989,7 +76171,7 @@ updated, stay happy! </description>
 <g:gtin>8903124029358</g:gtin>
 <link>https://www.croma.com/haier-p7-pro-126-cm-50-inch-2-star-qled-4k-ultra-hd-smart-google-tv-with-ai-picure-quality-2026-model-/p/323810</link>
 <g:price>75990.0 INR</g:price>
-<g:sale_price>45290.0 INR</g:sale_price>
+<g:sale_price>45190.0 INR</g:sale_price>
 <g:brand>Haier</g:brand>
 <g:condition>new</g:condition>
 <g:image_link>https://media.tatacroma.com/Croma%20Assets/Entertainment/Television/Images/323810_0_55Sr77wMd.png?updatedAt=1783345730594</g:image_link>
@@ -76381,7 +76563,7 @@ updated, stay happy! </description>
 <g:gtin>8806096691915</g:gtin>
 <link>https://www.croma.com/lg-evo-ai-140-cm-55-inch-2-star-oled-4k-ultra-hd-smart-webos-tv-with-ambient-filmmaker-mode-2026-model-/p/322606</link>
 <g:price>219990.0 INR</g:price>
-<g:sale_price>131990.0 INR</g:sale_price>
+<g:sale_price>131290.0 INR</g:sale_price>
 <g:brand>LG</g:brand>
 <g:condition>new</g:condition>
 <g:image_link>https://media.tatacroma.com/Croma%20Assets/Entertainment/Television/Images/322606_0_C8uUJEHQa.png?updatedAt=1789644329413</g:image_link>
@@ -76411,7 +76593,7 @@ updated, stay happy! </description>
 <g:gtin>8903470050167</g:gtin>
 <link>https://www.croma.com/voltas-243inv-vectra-elegant-convertible-2-ton-3-star-inverter-split-ac-with-5-step-adjustable-copper-condenser-4504077-/p/321304</link>
 <g:price>74990.0 INR</g:price>
-<g:sale_price>53490.0 INR</g:sale_price>
+<g:sale_price>51990.0 INR</g:sale_price>
 <g:brand>Voltas</g:brand>
 <g:condition>new</g:condition>
 <g:image_link>https://media.tatacroma.com/Croma%20Assets/Large%20Appliances/Air%20Conditioner/Images/321304_0_ydjZKl_VJ.png?updatedAt=1775826848452</g:image_link>
@@ -76703,7 +76885,7 @@ updated, stay happy! </description>
 <g:gtin>8806097642497</g:gtin>
 <link>https://www.croma.com/samsung-b-series-490w-bluetooth-soundbar-with-remote-dolby-audio-dts-virtual-x-5-1-channel-black-/p/318912</link>
 <g:price>39900.0 INR</g:price>
-<g:sale_price>22999.0 INR</g:sale_price>
+<g:sale_price>22890.0 INR</g:sale_price>
 <g:brand>Samsung</g:brand>
 <g:condition>new</g:condition>
 <g:image_link>https://media.tatacroma.com/Croma%20Assets/Entertainment/Speakers%20and%20Media%20Players/Images/318912_0_htYvgP6pN.png?updatedAt=1758117266298</g:image_link>
@@ -77135,7 +77317,7 @@ updated, stay happy! </description>
 <g:gtin>8806097993278</g:gtin>
 <link>https://www.croma.com/samsung-q-series-756w-bluetooth-soundbar-with-remote-wireless-dolby-atmos-11-1-4-channel-titan-black-/p/323120</link>
 <g:price>124900.0 INR</g:price>
-<g:sale_price>87999.0 INR</g:sale_price>
+<g:sale_price>87899.0 INR</g:sale_price>
 <g:brand>Samsung</g:brand>
 <g:condition>new</g:condition>
 <g:image_link>https://media.tatacroma.com/Croma%20Assets/Entertainment/Home%20Theatres%20and%20Audio%20Systems/Images/323120_0_SU-ml4jINx.png?updatedAt=1778151996888</g:image_link>
@@ -77605,7 +77787,7 @@ updated, stay happy! </description>
 <g:gtin>8887549910210</g:gtin>
 <link>https://www.croma.com/panasonic-eu-8-in-1-convertible-1-5-ton-5-star-inverter-split-smart-ac-with-wi-fi-supported-2026-model-copper-condenser-cs-cu-eu18cky5xfm-g-/p/322653</link>
 <g:price>70500.0 INR</g:price>
-<g:sale_price>52990.0 INR</g:sale_price>
+<g:sale_price>51990.0 INR</g:sale_price>
 <g:brand>Panasonic</g:brand>
 <g:condition>new</g:condition>
 <g:image_link>https://media.tatacroma.com/Croma%20Assets/Large%20Appliances/Air%20Conditioner/Images/322653_0_c1mJdDBr1.png?updatedAt=1778152141019</g:image_link>
@@ -77665,7 +77847,7 @@ updated, stay happy! </description>
 <g:gtin>8806096730539</g:gtin>
 <link>https://www.croma.com/lg-6-in-1-convertible-1-5-ton-5-star-inverter-split-ac-with-4-way-swing-copper-condenser-as-q19anze-amlg-/p/320292</link>
 <g:price>85290.0 INR</g:price>
-<g:sale_price>51990.0 INR</g:sale_price>
+<g:sale_price>50990.0 INR</g:sale_price>
 <g:brand>LG</g:brand>
 <g:condition>new</g:condition>
 <g:image_link>https://media.tatacroma.com/Croma%20Assets/Large%20Appliances/Air%20Conditioner/Images/320292_0_enxJhh5Rdc.png?updatedAt=1777028721558</g:image_link>
@@ -78015,7 +78197,7 @@ updated, stay happy! </description>
 <g:gtin>8901876028353</g:gtin>
 <link>https://www.croma.com/croma-109-cm-43-inch-1-star-qled-4k-ultra-hd-smart-google-tv-with-google-voice-assistant-2026-model-/p/323042</link>
 <g:price>38500.0 INR</g:price>
-<g:sale_price>30990.0 INR</g:sale_price>
+<g:sale_price>29990.0 INR</g:sale_price>
 <g:brand>Croma</g:brand>
 <g:condition>new</g:condition>
 <g:image_link>https://media.tatacroma.com/Croma%20Assets/Entertainment/Television/Images/323042_0_50414MFjyF.png?updatedAt=1782487920916</g:image_link>
@@ -78418,7 +78600,7 @@ updated, stay happy! </description>
 <g:gtin>8903079508397</g:gtin>
 <link>https://www.croma.com/hitachi-izen-3500stxl-convertible-1-5-ton-3-star-inverter-split-ac-with-octa-sensor-copper-condenser-ras-d318pcd3st1-/p/321165</link>
 <g:price>66990.0 INR</g:price>
-<g:sale_price>39490.0 INR</g:sale_price>
+<g:sale_price>38990.0 INR</g:sale_price>
 <g:brand>Hitachi</g:brand>
 <g:condition>new</g:condition>
 <g:image_link>https://media.tatacroma.com/Croma%20Assets/Large%20Appliances/Air%20Conditioner/Images/321165_0_gxRxAARFM.png?updatedAt=1783576118232</g:image_link>
@@ -78448,7 +78630,7 @@ updated, stay happy! </description>
 <g:internal_label>['edlp']</g:internal_label><g:gtin>8901876028469</g:gtin>
 <link>https://www.croma.com/croma-81-28-cm-32-inch-1-star-led-hd-ready-smart-linux-tv-with-a+-grade-panel-2026-model-/p/323445</link>
 <g:price>17000.0 INR</g:price>
-<g:sale_price>12990.0 INR</g:sale_price>
+<g:sale_price>9990.0 INR</g:sale_price>
 <g:brand>Croma</g:brand>
 <g:condition>new</g:condition>
 <g:image_link>https://media.tatacroma.com/Croma%20Assets/Entertainment/Television/Images/323445_0_GFkvbe-jx.png?updatedAt=1784184871425</g:image_link>
@@ -81596,7 +81778,7 @@ updated, stay happy! </description>
 <g:gtin>8901876025796</g:gtin>
 <link>https://www.croma.com/croma-190-cm-75-inch-3-star-qled-4k-ultra-hd-smart-google-tv-with-dolby-vision-dolby-atmos-2025-model-/p/319131</link>
 <g:price>90000.0 INR</g:price>
-<g:sale_price>78990.0 INR</g:sale_price>
+<g:sale_price>77990.0 INR</g:sale_price>
 <g:brand>Croma</g:brand>
 <g:condition>new</g:condition>
 <g:image_link>https://media.tatacroma.com/Croma%20Assets/Entertainment/Television/Images/319131_0_t18Gnsy_x.png?updatedAt=1759142393479</g:image_link>
@@ -84811,7 +84993,7 @@ updated, stay happy! </description>
 <g:gtin>8806096734896</g:gtin>
 <link>https://www.croma.com/lg-nano-ai-43nu885bpla-108-cm-43-inch-2-star-4k-ultra-hd-smart-webos-26-tv-with-ai-hub-2026-model-/p/322615</link>
 <g:price>49990.0 INR</g:price>
-<g:sale_price>33090.0 INR</g:sale_price>
+<g:sale_price>33140.0 INR</g:sale_price>
 <g:brand>LG</g:brand>
 <g:condition>new</g:condition>
 <g:image_link>https://media.tatacroma.com/Croma%20Assets/GIF/322615_0_Bgl9zIZmZ.gif?updatedAt=1785827976711</g:image_link>
@@ -85424,7 +85606,7 @@ updated, stay happy! </description>
 <g:gtin>8806097831693</g:gtin>
 <link>https://www.croma.com/samsung-5-in-1-convertible-1-ton-3-star-inverter-split-smart-ac-with-bespoke-ai-2026-model-copper-condenser-ar50h12d1xhnna-/p/320444</link>
 <g:price>67990.0 INR</g:price>
-<g:sale_price>35490.0 INR</g:sale_price>
+<g:sale_price>33990.0 INR</g:sale_price>
 <g:brand>Samsung</g:brand>
 <g:condition>new</g:condition>
 <g:image_link>https://media.tatacroma.com/Croma%20Assets/Large%20Appliances/Air%20Conditioner/Images/320444_0_2Ejgxj0xi.png?updatedAt=1774975764720</g:image_link>
@@ -100241,9 +100423,9 @@ updated, stay happy! </description>
 </g:shipping>
 </item>
 <item>
-<g:id>325394</g:id>
-<title>Google Pixel 11 5G (12GB RAM, 512GB, Frost)</title>
-<description>Buy Google Pixel 11 5G (12GB RAM, 512GB, Frost) online at best prices from Croma. Check product details, reviews &amp; more. Shop now!</description>
+<g:id>326840</g:id>
+<title>vivo V80 5G (8GB RAM, 256GB, Horizon Blue)</title>
+<description>Buy vivo V80 5G (8GB RAM, 256GB, Horizon Blue) online at best prices from Croma. Check product details, reviews &amp; more. Shop now!</description>
 <g:google_product_category>Electronics &gt; Communications &gt; Telephony &gt; Mobile Phones</g:google_product_category>
 <g:product_type>Phones &amp; Wearables&gt;Mobile Phones&gt;Android Phones</g:product_type>
 <g:custom_label_0>Phones &amp; Wearables</g:custom_label_0>
@@ -100251,16 +100433,16 @@ updated, stay happy! </description>
 <g:custom_label_2>Android Phones</g:custom_label_2>
 <g:custom_label_3/>
 <g:custom_label_4/>
-<g:gtin>840353956377</g:gtin>
-<link>https://www.croma.com/google-pixel-11-5g-12gb-ram-512gb-frost-/p/325394</link>
-<g:price>104999.0 INR</g:price>
-<g:sale_price>94999.0 INR</g:sale_price>
-<g:brand>Google</g:brand>
+<g:gtin>6932204546258</g:gtin>
+<link>https://www.croma.com/vivo-v80-5g-8gb-ram-256gb-horizon-blue-/p/326840</link>
+<g:price>118999.0 INR</g:price>
+<g:sale_price>69999.0 INR</g:sale_price>
+<g:brand>Vivo</g:brand>
 <g:condition>new</g:condition>
-<g:image_link>https://media.tatacroma.com/Croma%20Assets/Communication/Mobiles/Images/325394_0_Gj-WGtfQY.png?updatedAt=1786601044489</g:image_link>
-<g:additional_image_link>https://media.tatacroma.com/Croma%20Assets/Communication/Mobiles/Images/325394_0_Gj-WGtfQY.png?updatedAt=1786601044489</g:additional_image_link>
+<g:image_link>https://media.tatacroma.com/Croma%20Assets/Communication/Mobiles/Images/326840_0_Sn2nZaTLs.png?updatedAt=1791285421263</g:image_link>
+<g:additional_image_link>https://media.tatacroma.com/Croma%20Assets/Communication/Mobiles/Images/326840_0_Sn2nZaTLs.png?updatedAt=1791285421263</g:additional_image_link>
 <g:availability>out_of_stock</g:availability>
-<g:color> Frost </g:color>
+<g:color> Horizon Blue </g:color>
 <g:product_applicability>SPECIFIC_PRODUCTS</g:product_applicability>
 <g:offer_type>NO_CODE</g:offer_type>
 <g:redemption_channel>ONLINE</g:redemption_channel>
@@ -106296,6 +106478,32 @@ updated, stay happy! </description>
 </g:shipping>
 </item>
 <item>
+<g:id>316022</g:id>
+<title>SONY ULT FIELD 3 Portable Bluetooth Speaker (IP66, IP67 Water Resistant, Party Connect, 2.0 Channel, Black)</title>
+<description>Buy SONY ULT FIELD 3 Portable Bluetooth Speaker (IP66, IP67 Water Resistant, Party Connect, 2.0 Channel, Black) online at best prices from Croma. Check product details, reviews &amp; more. Shop now!</description>
+<g:google_product_category>Electronics &gt; Audio</g:google_product_category>
+<g:product_type>Audio &amp; Video&gt;Speaker &amp; Media Player&gt;Portable Bluetooth Speakers</g:product_type>
+<g:custom_label_0>Audio &amp; Video</g:custom_label_0>
+<g:custom_label_1>Speaker &amp; Media Player</g:custom_label_1>
+<g:custom_label_2>Portable Bluetooth Speakers</g:custom_label_2>
+<g:custom_label_3/>
+<g:custom_label_4/>
+<g:gtin>4548736164697</g:gtin>
+<link>https://www.croma.com/sony-ult-field-3-portable-bluetooth-speaker-ip66-ip67-water-resistant-party-connect-2-0-channel-black-/p/316022</link>
+<g:price>24990.0 INR</g:price>
+<g:sale_price>12990.0 INR</g:sale_price>
+<g:brand>Sony</g:brand>
+<g:condition>new</g:condition>
+<g:image_link>https://media.tatacroma.com/Croma%20Assets/Entertainment/Speakers%20and%20Media%20Players/Images/316022_0_iq5J8CBAr_.png?updatedAt=1753793508336</g:image_link>
+<g:additional_image_link>https://media.tatacroma.com/Croma%20Assets/Entertainment/Speakers%20and%20Media%20Players/Images/316022_0_iq5J8CBAr_.png?updatedAt=1753793508336</g:additional_image_link>
+<g:availability>out_of_stock</g:availability>
+<g:color> Black </g:color>
+<g:shipping>
+<g:country>IN</g:country>
+<g:price>49.0 INR</g:price>
+</g:shipping>
+</item>
+<item>
 <g:id>320477</g:id>
 <title>Nothing CMF Headphone Pro A11300011 Bluetooth Headphone with Mic (Hybrid Adaptive Active Noise Cancellation, Over Ear, Light Green</title>
 <description>Buy Nothing CMF Headphone Pro A11300011 Bluetooth Headphone with Mic (Hybrid Adaptive Active Noise Cancellation, Over Ear, Light Green online at best prices from Croma. Check product details, reviews &amp; more. Shop now!</description>
@@ -108499,36 +108707,6 @@ updated, stay happy! </description>
 <g:additional_image_link>https://media.tatacroma.com/Croma%20Assets/Communication/Speakers%20and%20Media%20Players/Images/320917_0_h9nDtKQne.png?updatedAt=1772200504975</g:additional_image_link>
 <g:availability>out_of_stock</g:availability>
 <g:color> Black </g:color>
-<g:shipping>
-<g:country>IN</g:country>
-<g:price>49.0 INR</g:price>
-</g:shipping>
-</item>
-<item>
-<g:id>316628</g:id>
-<title>SENNHEISER Momentum 4 700383 Bluetooth Headphone with Mic (Hybrid Adaptive ANC, Over Ear, Graphite)</title>
-<description>Buy SENNHEISER Momentum 4 700383 Bluetooth Headphone with Mic (Hybrid Adaptive ANC, Over Ear, Graphite) online at best prices from Croma. Check product details, reviews &amp; more. Shop now!</description>
-<g:google_product_category>Electronics &gt; Audio &gt; Audio Components &gt; Headphones &amp; Headsets</g:google_product_category>
-<g:product_type>Audio &amp; Video&gt;Headphones &amp; Earphones&gt;Bluetooth Headphones</g:product_type>
-<g:custom_label_0>Audio &amp; Video</g:custom_label_0>
-<g:custom_label_1>Headphones &amp; Earphones</g:custom_label_1>
-<g:custom_label_2>Bluetooth Headphones</g:custom_label_2>
-<g:custom_label_3/>
-<g:custom_label_4/>
-<g:gtin>4260752332569</g:gtin>
-<link>https://www.croma.com/sennheiser-momentum-4-700383-bluetooth-headphone-with-mic-hybrid-adaptive-anc-over-ear-graphite-/p/316628</link>
-<g:price>34990.0 INR</g:price>
-<g:sale_price>20990.0 INR</g:sale_price>
-<g:brand>Sennheiser</g:brand>
-<g:condition>new</g:condition>
-<g:image_link>https://media.tatacroma.com/Croma%20Assets/Communication/Headphones%20and%20Earphones/Images/316628_0_o5ruqt.png</g:image_link>
-<g:additional_image_link>https://media.tatacroma.com/Croma%20Assets/Communication/Headphones%20and%20Earphones/Images/316628_0_o5ruqt.png</g:additional_image_link>
-<g:availability>out_of_stock</g:availability>
-<g:color> Graphite </g:color>
-<g:product_applicability>SPECIFIC_PRODUCTS</g:product_applicability>
-<g:offer_type>NO_CODE</g:offer_type>
-<g:redemption_channel>ONLINE</g:redemption_channel>
-<g:promotion_destination>SHOPPING_ADS</g:promotion_destination>
 <g:shipping>
 <g:country>IN</g:country>
 <g:price>49.0 INR</g:price>
@@ -118342,36 +118520,6 @@ updated, stay happy! </description>
 </g:shipping>
 </item>
 <item>
-<g:id>326814</g:id>
-<title>oppo F35 5G (6GB RAM, 128GB, Deep Titanium)</title>
-<description>Buy oppo F35 5G (6GB RAM, 128GB, Deep Titanium) online at best prices from Croma. Check product details, reviews &amp; more. Shop now!</description>
-<g:google_product_category>Electronics &gt; Communications &gt; Telephony &gt; Mobile Phones</g:google_product_category>
-<g:product_type>Phones &amp; Wearables&gt;Mobile Phones&gt;Android Phones</g:product_type>
-<g:custom_label_0>Phones &amp; Wearables</g:custom_label_0>
-<g:custom_label_1>Mobile Phones</g:custom_label_1>
-<g:custom_label_2>Android Phones</g:custom_label_2>
-<g:custom_label_3/>
-<g:custom_label_4/>
-<g:gtin>6942675419074</g:gtin>
-<link>https://www.croma.com/oppo-f35-5g-6gb-ram-128gb-deep-titanium-/p/326814</link>
-<g:price>62999.0 INR</g:price>
-<g:sale_price>38999.0 INR</g:sale_price>
-<g:brand>Oppo</g:brand>
-<g:condition>new</g:condition>
-<g:image_link>https://media.tatacroma.com/Croma%20Assets/Communication/Mobiles/Images/326814_0_njUlTUqu2.png?updatedAt=1790839087164</g:image_link>
-<g:additional_image_link>https://media.tatacroma.com/Croma%20Assets/Communication/Mobiles/Images/326814_0_njUlTUqu2.png?updatedAt=1790839087164</g:additional_image_link>
-<g:availability>out_of_stock</g:availability>
-<g:color> Deep Titanium </g:color>
-<g:product_applicability>SPECIFIC_PRODUCTS</g:product_applicability>
-<g:offer_type>NO_CODE</g:offer_type>
-<g:redemption_channel>ONLINE</g:redemption_channel>
-<g:promotion_destination>SHOPPING_ADS</g:promotion_destination>
-<g:shipping>
-<g:country>IN</g:country>
-<g:price>79.0 INR</g:price>
-</g:shipping>
-</item>
-<item>
 <g:id>325619</g:id>
 <title>NOTHING Phone 4a 5G (12GB RAM, 256GB, White)</title>
 <description>Buy NOTHING Phone 4a 5G (12GB RAM, 256GB, White) online at best prices from Croma. Check product details, reviews &amp; more. Shop now!</description>
@@ -119491,36 +119639,6 @@ updated, stay happy! </description>
 <g:shipping>
 <g:country>IN</g:country>
 <g:price>79.0 INR</g:price>
-</g:shipping>
-</item>
-<item>
-<g:id>326714</g:id>
-<title>SENNHEISER MOMENTUM 5 TWS Earbuds with Hybrid Adaptive Active Noise Cancellation (AI-Powered Voice Isolation, Copper)</title>
-<description>Buy SENNHEISER MOMENTUM 5 TWS Earbuds with Hybrid Adaptive Active Noise Cancellation (AI-Powered Voice Isolation, Copper) online at best prices from Croma. Check product details, reviews &amp; more. Shop now!</description>
-<g:google_product_category>Electronics &gt; Audio &gt; Audio Components &gt; Headphones &amp; Headsets</g:google_product_category>
-<g:product_type>Audio &amp; Video&gt;Headphones &amp; Earphones&gt;Truly Wireless Earbuds</g:product_type>
-<g:custom_label_0>Audio &amp; Video</g:custom_label_0>
-<g:custom_label_1>Headphones &amp; Earphones</g:custom_label_1>
-<g:custom_label_2>Truly Wireless Earbuds</g:custom_label_2>
-<g:custom_label_3/>
-<g:custom_label_4/>
-<g:gtin>4260752332170</g:gtin>
-<link>https://www.croma.com/sennheiser-momentum-5-tws-earbuds-with-hybrid-adaptive-active-noise-cancellation-ai-powered-voice-isolation-copper-/p/326714</link>
-<g:price>34990.0 INR</g:price>
-<g:sale_price>29990.0 INR</g:sale_price>
-<g:brand>Sennheiser</g:brand>
-<g:condition>new</g:condition>
-<g:image_link>https://media.tatacroma.com/Croma%20Assets/Entertainment/Wireless%20Earbuds/Images/326714_0_WZ5BaU0Vyl.png?updatedAt=1790156826319</g:image_link>
-<g:additional_image_link>https://media.tatacroma.com/Croma%20Assets/Entertainment/Wireless%20Earbuds/Images/326714_0_WZ5BaU0Vyl.png?updatedAt=1790156826319</g:additional_image_link>
-<g:availability>out_of_stock</g:availability>
-<g:color> Copper </g:color>
-<g:product_applicability>SPECIFIC_PRODUCTS</g:product_applicability>
-<g:offer_type>NO_CODE</g:offer_type>
-<g:redemption_channel>ONLINE</g:redemption_channel>
-<g:promotion_destination>SHOPPING_ADS</g:promotion_destination>
-<g:shipping>
-<g:country>IN</g:country>
-<g:price>49.0 INR</g:price>
 </g:shipping>
 </item>
 <item>
@@ -123674,32 +123792,6 @@ updated, stay happy! </description>
 </g:shipping>
 </item>
 <item>
-<g:id>312412</g:id>
-<title>SHOKZ OpenRun Pro 2 Bone Conduction Bluetooth Headphone with Active Noise Cancellation (IP55 Water Resistant, Quick Charge, Black)</title>
-<description>Buy SHOKZ OpenRun Pro 2 Bone Conduction Bluetooth Headphone with Active Noise Cancellation (IP55 Water Resistant, Quick Charge, Black) online at best prices from Croma. Check product details, reviews &amp; more. Shop now!</description>
-<g:google_product_category>Electronics &gt; Audio &gt; Audio Components &gt; Headphones &amp; Headsets</g:google_product_category>
-<g:product_type>Audio &amp; Video&gt;Headphones &amp; Earphones&gt;Bluetooth Headphones</g:product_type>
-<g:custom_label_0>Audio &amp; Video</g:custom_label_0>
-<g:custom_label_1>Headphones &amp; Earphones</g:custom_label_1>
-<g:custom_label_2>Bluetooth Headphones</g:custom_label_2>
-<g:custom_label_3/>
-<g:custom_label_4/>
-<g:gtin>0810092678922</g:gtin>
-<link>https://www.croma.com/shokz-openrun-pro-2-bone-conduction-bluetooth-headphone-with-active-noise-cancellation-ip55-water-resistant-quick-charge-black-/p/312412</link>
-<g:price>25799.0 INR</g:price>
-<g:sale_price>14399.0 INR</g:sale_price>
-<g:brand>Shokz</g:brand>
-<g:condition>new</g:condition>
-<g:image_link>https://media.tatacroma.com/Croma%20Assets/Entertainment/Headphones%20and%20Earphones/Images/312412_o3dgcq.png</g:image_link>
-<g:additional_image_link>https://media.tatacroma.com/Croma%20Assets/Entertainment/Headphones%20and%20Earphones/Images/312412_o3dgcq.png</g:additional_image_link>
-<g:availability>out_of_stock</g:availability>
-<g:color> Black </g:color>
-<g:shipping>
-<g:country>IN</g:country>
-<g:price>49.0 INR</g:price>
-</g:shipping>
-</item>
-<item>
 <g:id>250983</g:id>
 <title>Refurbished OnePlus 6 (8GB RAM, 128GB, Mirror Black)</title>
 <description>Buy Refurbished OnePlus 6 (8GB RAM, 128GB, Mirror Black) online at best prices from Croma. Check product details, reviews &amp; more. Shop now!</description>
@@ -125197,7 +125289,7 @@ updated, stay happy! </description>
 <g:gtin>8901762472949</g:gtin>
 <link>https://www.croma.com/lloyd-6-n-1-convertible-1-5-ton-5-star-inverter-split-ac-with-ice-clean-copper-condenser-gls18i5agagr-/p/322184</link>
 <g:price>68990.0 INR</g:price>
-<g:sale_price>45990.0 INR</g:sale_price>
+<g:sale_price>44990.0 INR</g:sale_price>
 <g:brand>Lloyd</g:brand>
 <g:condition>new</g:condition>
 <g:image_link>https://media.tatacroma.com/Croma%20Assets/Large%20Appliances/Air%20Conditioner/Images/322184_0_tZeHWtKoY.png?updatedAt=1779716291366</g:image_link>
@@ -125771,7 +125863,7 @@ updated, stay happy! </description>
 <g:gtin>8904239828775</g:gtin>
 <link>https://www.croma.com/blue-star-p-series-5-in-1-convertible-1-5-ton-3-star-inverter-split-ac-with-turbo-cool-2026-model-blue-fin-condenser-ia317pxu-/p/324071</link>
 <g:price>59000.0 INR</g:price>
-<g:sale_price>36490.0 INR</g:sale_price>
+<g:sale_price>35990.0 INR</g:sale_price>
 <g:brand>Blue Star</g:brand>
 <g:condition>new</g:condition>
 <g:image_link>https://media.tatacroma.com/Croma%20Assets/Large%20Appliances/Air%20Conditioner/Images/324071_0_0B3RF7GEk.png?updatedAt=1782821639879</g:image_link>
@@ -128392,36 +128484,6 @@ updated, stay happy! </description>
 </g:shipping>
 </item>
 <item>
-<g:id>230098</g:id>
-<title>elica 65L 60cm Built-in Microwave with Default Temperature (EPBI 865 MMF, Black)</title>
-<description>Buy elica 65L 60cm Built-in Microwave with Default Temperature (EPBI 865 MMF, Black) online at best prices from Croma. Check product details, reviews &amp; more. Shop now!</description>
-<g:google_product_category>Home &amp; Garden &gt; Kitchen &amp; Dining &gt; Kitchen Appliances &gt; Microwave Ovens</g:google_product_category>
-<g:product_type>Kitchen Appliances&gt;Microwave &amp; Ovens&gt;Built-in Microwave Ovens</g:product_type>
-<g:custom_label_0>Kitchen Appliances</g:custom_label_0>
-<g:custom_label_1>Microwave &amp; Ovens</g:custom_label_1>
-<g:custom_label_2>Built-in Microwave Ovens</g:custom_label_2>
-<g:custom_label_3/>
-<g:custom_label_4/>
-<g:gtin>8906114041637</g:gtin>
-<link>https://www.croma.com/elica-65l-60cm-built-in-microwave-with-default-temperature-epbi-865-mmf-black-/p/230098</link>
-<g:price>44990.0 INR</g:price>
-<g:sale_price>34790.0 INR</g:sale_price>
-<g:brand>Elica</g:brand>
-<g:condition>new</g:condition>
-<g:image_link>https://media.tatacroma.com/Croma%20Assets/Small%20Appliances/Microwave%20or%20OTG/Images/230098_0_sxjxur.png</g:image_link>
-<g:additional_image_link>https://media.tatacroma.com/Croma%20Assets/Small%20Appliances/Microwave%20or%20OTG/Images/230098_0_sxjxur.png</g:additional_image_link>
-<g:availability>out_of_stock</g:availability>
-<g:color> Black </g:color>
-<g:product_applicability>SPECIFIC_PRODUCTS</g:product_applicability>
-<g:offer_type>NO_CODE</g:offer_type>
-<g:redemption_channel>ONLINE</g:redemption_channel>
-<g:promotion_destination>SHOPPING_ADS</g:promotion_destination>
-<g:shipping>
-<g:country>IN</g:country>
-<g:price>49.0 INR</g:price>
-</g:shipping>
-</item>
-<item>
 <g:id>252067</g:id>
 <title>AO Smith 15 Litres 3 Star Horizontal Storage Water Geyser with Glass Coated Incoloy Heating Element (White)</title>
 <description>Buy AO Smith 15 Litres 3 Star Horizontal Storage Water Geyser with Glass Coated Incoloy Heating Element (White) online at best prices from Croma. Check product details, reviews &amp; more. Shop now!</description>
@@ -129261,6 +129323,32 @@ updated, stay happy! </description>
 <g:offer_type>NO_CODE</g:offer_type>
 <g:redemption_channel>ONLINE</g:redemption_channel>
 <g:promotion_destination>SHOPPING_ADS</g:promotion_destination>
+<g:shipping>
+<g:country>IN</g:country>
+<g:price>49.0 INR</g:price>
+</g:shipping>
+</item>
+<item>
+<g:id>319391</g:id>
+<title>HAVELLS Mirak 6L UV + UF Water Purifier with Smart Indicators (Black)</title>
+<description>Buy HAVELLS Mirak 6L UV + UF Water Purifier with Smart Indicators (Black) online at best prices from Croma. Check product details, reviews &amp; more. Shop now!</description>
+<g:google_product_category>Hardware &gt; Plumbing &gt; Water Dispensing &amp; Filtration &gt; Water Dispensers</g:google_product_category>
+<g:product_type>Kitchen Appliances&gt;Water Purifiers &amp; Dispensers&gt;Water Purifiers</g:product_type>
+<g:custom_label_0>Kitchen Appliances</g:custom_label_0>
+<g:custom_label_1>Water Purifiers &amp; Dispensers</g:custom_label_1>
+<g:custom_label_2>Water Purifiers</g:custom_label_2>
+<g:custom_label_3/>
+<g:custom_label_4/>
+<g:gtin>8901762177202</g:gtin>
+<link>https://www.croma.com/havells-mirak-6l-uv-+-uf-water-purifier-with-smart-indicators-black-/p/319391</link>
+<g:price>17490.0 INR</g:price>
+<g:sale_price>9890.0 INR</g:sale_price>
+<g:brand>Havells</g:brand>
+<g:condition>new</g:condition>
+<g:image_link>https://media.tatacroma.com/Croma%20Assets/Small%20Appliances/Water%20Purifier/Images/319391_0_DUnBYJbAi.png?updatedAt=1761654011232</g:image_link>
+<g:additional_image_link>https://media.tatacroma.com/Croma%20Assets/Small%20Appliances/Water%20Purifier/Images/319391_0_DUnBYJbAi.png?updatedAt=1761654011232</g:additional_image_link>
+<g:availability>out_of_stock</g:availability>
+<g:color> Black </g:color>
 <g:shipping>
 <g:country>IN</g:country>
 <g:price>49.0 INR</g:price>
@@ -130446,35 +130534,6 @@ updated, stay happy! </description>
 <g:shipping>
 <g:country>IN</g:country>
 <g:price>29.0 INR</g:price>
-</g:shipping>
-</item>
-<item>
-<g:id>261913</g:id>
-<title>elica ISMART EFL 75 HAC LTW 75cm Ductless Auto Clean Wall Mounted Chimney with Powerful Suction (Black)</title>
-<description>Buy elica ISMART EFL 75 HAC LTW 75cm Ducted Auto Clean Wall Mounted Chimney with Powerful Suction (Black) online at best prices from Croma. Check product details, reviews &amp; more. Shop now!</description>
-<g:google_product_category>Home &amp; Garden &gt; Kitchen &amp; Dining &gt; Kitchen Appliance Accessories</g:google_product_category>
-<g:product_type>Kitchen Appliances&gt;Electric Chimneys</g:product_type>
-<g:custom_label_0>Kitchen Appliances</g:custom_label_0>
-<g:custom_label_1>Electric Chimneys</g:custom_label_1>
-<g:custom_label_3/>
-<g:custom_label_4/>
-<g:gtin>8906114046847</g:gtin>
-<link>https://www.croma.com/elica-ismart-efl-75-hac-ltw-75cm-ductless-auto-clean-wall-mounted-chimney-with-powerful-suction-black-/p/261913</link>
-<g:price>68990.0 INR</g:price>
-<g:sale_price>45490.0 INR</g:sale_price>
-<g:brand>Elica</g:brand>
-<g:condition>new</g:condition>
-<g:image_link>https://media.tatacroma.com/Croma%20Assets/Small%20Appliances/Electric%20Chimney/Images/261913_0_lx9pm2.png</g:image_link>
-<g:additional_image_link>https://media.tatacroma.com/Croma%20Assets/Small%20Appliances/Electric%20Chimney/Images/261913_0_lx9pm2.png</g:additional_image_link>
-<g:availability>out_of_stock</g:availability>
-<g:color> Black </g:color>
-<g:product_applicability>SPECIFIC_PRODUCTS</g:product_applicability>
-<g:offer_type>NO_CODE</g:offer_type>
-<g:redemption_channel>ONLINE</g:redemption_channel>
-<g:promotion_destination>SHOPPING_ADS</g:promotion_destination>
-<g:shipping>
-<g:country>IN</g:country>
-<g:price>49.0 INR</g:price>
 </g:shipping>
 </item>
 <item>
@@ -132588,7 +132647,7 @@ updated, stay happy! </description>
 <g:gtin>8904239829055</g:gtin>
 <link>https://www.croma.com/blue-star-c-series-5-in-1-convertible-1-5-ton-3-star-inverter-split-ac-with-4-way-swing-2026-model-blue-fin-condenser-ic318mxu-/p/323661</link>
 <g:price>60500.0 INR</g:price>
-<g:sale_price>39990.0 INR</g:sale_price>
+<g:sale_price>38990.0 INR</g:sale_price>
 <g:brand>Blue Star</g:brand>
 <g:condition>new</g:condition>
 <g:image_link>https://media.tatacroma.com/Croma%20Assets/Large%20Appliances/Air%20Conditioner/Images/323661_0_jEby3RwR9.png?updatedAt=1782290959793</g:image_link>
@@ -135606,7 +135665,7 @@ updated, stay happy! </description>
 <g:gtin>8806097832539</g:gtin>
 <link>https://www.croma.com/samsung-ar50-5-in-1-convertible-2-ton-3-star-inverter-split-smart-ac-with-4-way-swing-2026-model-copper-condenser-ar50h24d1xh-/p/320540</link>
 <g:price>95990.0 INR</g:price>
-<g:sale_price>57090.0 INR</g:sale_price>
+<g:sale_price>54990.0 INR</g:sale_price>
 <g:brand>Samsung</g:brand>
 <g:condition>new</g:condition>
 <g:image_link>https://media.tatacroma.com/Croma%20Assets/Large%20Appliances/Air%20Conditioner/Images/320540_0_MMKLUB0iA.png?updatedAt=1774975801839</g:image_link>
@@ -135919,7 +135978,7 @@ updated, stay happy! </description>
 <g:gtin>8887549900730</g:gtin>
 <link>https://www.croma.com/panasonic-eu-8-in-1-convertible-1-5-ton-4-star-inverter-split-smart-ac-with-google-alexa-voice-assistant-2026-model-copper-condenser-cs-cu-eu18cky4xfm-/p/320814</link>
 <g:price>63500.0 INR</g:price>
-<g:sale_price>47490.0 INR</g:sale_price>
+<g:sale_price>45990.0 INR</g:sale_price>
 <g:brand>Panasonic</g:brand>
 <g:condition>new</g:condition>
 <g:image_link>https://media.tatacroma.com/Croma%20Assets/Large%20Appliances/Air%20Conditioner/Images/320814_0_xJ6hZJIQy.png?updatedAt=1774975776175</g:image_link>
@@ -135975,7 +136034,7 @@ updated, stay happy! </description>
 <g:gtin>8887549900716</g:gtin>
 <link>https://www.croma.com/panasonic-eu-8-in-1-convertible-1-5-ton-3-star-inverter-split-ac-with-pm-0-1-filter-2026-model-copper-condenser-cs-cu-eu18cky3xfh-/p/320898</link>
 <g:price>58500.0 INR</g:price>
-<g:sale_price>42490.0 INR</g:sale_price>
+<g:sale_price>40990.0 INR</g:sale_price>
 <g:brand>Panasonic</g:brand>
 <g:condition>new</g:condition>
 <g:image_link>https://media.tatacroma.com/Croma%20Assets/Large%20Appliances/Air%20Conditioner/Images/320898_0_o_XDAIbVi.png?updatedAt=1774975780455</g:image_link>
@@ -136091,7 +136150,7 @@ updated, stay happy! </description>
 <g:gtin>8887549900693</g:gtin>
 <link>https://www.croma.com/panasonic-eu-8-in-1-convertible-1-5-ton-3-star-inverter-split-ac-with-pm-0-1-filter-2026-model-copper-condenser-cs-cu-eu18cky3f-/p/320888</link>
 <g:price>57000.0 INR</g:price>
-<g:sale_price>41490.0 INR</g:sale_price>
+<g:sale_price>39990.0 INR</g:sale_price>
 <g:brand>Panasonic</g:brand>
 <g:condition>new</g:condition>
 <g:image_link>https://media.tatacroma.com/Croma%20Assets/Large%20Appliances/Air%20Conditioner/Images/320888_0_Aw4XN0guM.png?updatedAt=1774975693432</g:image_link>
@@ -136181,7 +136240,7 @@ updated, stay happy! </description>
 <g:gtin>8887549900754</g:gtin>
 <link>https://www.croma.com/panasonic-eu-8-in-1-convertible-1-5-ton-5-star-inverter-split-smart-ac-with-voice-assistant-2026-model-copper-condenser-cs-cu-eu18cky5xfm-/p/320760</link>
 <g:price>67500.0 INR</g:price>
-<g:sale_price>51490.0 INR</g:sale_price>
+<g:sale_price>49990.0 INR</g:sale_price>
 <g:brand>Panasonic</g:brand>
 <g:condition>new</g:condition>
 <g:image_link>https://media.tatacroma.com/Croma%20Assets/Large%20Appliances/Air%20Conditioner/Images/320760_0_iv6coYKBj.png?updatedAt=1774975701967</g:image_link>
@@ -136498,7 +136557,7 @@ updated, stay happy! </description>
 <g:gtin>8903079505655</g:gtin>
 <link>https://www.croma.com/hitachi-senpai-3200fl-1-5-ton-2-star-fixed-speed-split-ac-copper-condenser-anti-bacterial-superfine-mesh-filter-ras-b318pcaiba1-/p/320808</link>
 <g:price>58800.0 INR</g:price>
-<g:sale_price>44990.0 INR</g:sale_price>
+<g:sale_price>41990.0 INR</g:sale_price>
 <g:brand>Hitachi</g:brand>
 <g:condition>new</g:condition>
 <g:image_link>https://media.tatacroma.com/Croma%20Assets/Large%20Appliances/Air%20Conditioner/Images/320808_0_jlRf6v0MV.png?updatedAt=1771936224202</g:image_link>
@@ -139938,36 +139997,6 @@ updated, stay happy! </description>
 </g:shipping>
 </item>
 <item>
-<g:id>321449</g:id>
-<title>Haier 190 Litres 3 Star Direct Cool Single Door Refrigerator with Stabilizer Free Operation (HRD-2113BBSA-N, Brushline Silver) (2026 Model) (2026 Model)</title>
-<description>Buy Haier 190 Litres 3 Star Direct Cool Single Door Refrigerator with Stabilizer Free Operation (HRD-2113BBSA-N, Brushline Silver) online at best prices from Croma. Check product details, reviews &amp; more. Shop now!</description>
-<g:google_product_category>Home &amp; Garden &gt; Kitchen &amp; Dining &gt; Kitchen Appliances &gt; Refrigerators</g:google_product_category>
-<g:product_type>Home Appliances&gt;Refrigerators &amp; Freezers&gt;Single Door Refrigerators</g:product_type>
-<g:custom_label_0>Home Appliances</g:custom_label_0>
-<g:custom_label_1>Refrigerators &amp; Freezers</g:custom_label_1>
-<g:custom_label_2>Single Door Refrigerators</g:custom_label_2>
-<g:custom_label_3/>
-<g:custom_label_4/>
-<g:gtin>8903124025770</g:gtin>
-<link>https://www.croma.com/haier-190-litres-3-star-direct-cool-single-door-refrigerator-with-stabilizer-free-operation-hrd-2113bbsa-n-brushline-silver-2026-model-2026-model-/p/321449</link>
-<g:price>24190.0 INR</g:price>
-<g:sale_price>15290.0 INR</g:sale_price>
-<g:brand>Haier</g:brand>
-<g:condition>new</g:condition>
-<g:image_link>https://media.tatacroma.com/Croma%20Assets/Large%20Appliances/Refrigerator/Images/321449_0_FRpNOQg7z.png?updatedAt=1775440034940</g:image_link>
-<g:additional_image_link>https://media.tatacroma.com/Croma%20Assets/Large%20Appliances/Refrigerator/Images/321449_0_FRpNOQg7z.png?updatedAt=1775440034940</g:additional_image_link>
-<g:availability>out_of_stock</g:availability>
-<g:color> Brushline Silver </g:color>
-<g:product_applicability>SPECIFIC_PRODUCTS</g:product_applicability>
-<g:offer_type>NO_CODE</g:offer_type>
-<g:redemption_channel>ONLINE</g:redemption_channel>
-<g:promotion_destination>SHOPPING_ADS</g:promotion_destination>
-<g:shipping>
-<g:country>IN</g:country>
-<g:price>129.0 INR</g:price>
-</g:shipping>
-</item>
-<item>
 <g:id>320576</g:id>
 <title>Croma 7 in 1 Convertible 1 Ton 3 Star Inverter Split Smart AC with Nano Shield and Blue Fin Protection (2026 Model, Copper Condenser, CRLAS12IND170210)</title>
 <description>Buy Croma 7 in 1 Convertible 1 Ton 3 Star Inverter Split Smart AC with Nano Shield and Blue Fin Protection (2026 Model, Copper Condenser, CRLAS12IND170210) online at best prices from Croma. Check product details, reviews &amp; more. Shop now!</description>
@@ -142412,7 +142441,7 @@ updated, stay happy! </description>
 <g:gtin>8806097831853</g:gtin>
 <link>https://www.croma.com/samsung-5-in-1-convertible-1-5-ton-3-star-inverter-split-smart-ac-with-bespoke-ai-2026-model-copper-condenser-ar50h19d1xhnna-/p/320453</link>
 <g:price>79990.0 INR</g:price>
-<g:sale_price>41990.0 INR</g:sale_price>
+<g:sale_price>39990.0 INR</g:sale_price>
 <g:brand>Samsung</g:brand>
 <g:condition>new</g:condition>
 <g:image_link>https://media.tatacroma.com/Croma%20Assets/Large%20Appliances/Air%20Conditioner/Images/320453_0_k5jNpn84-.png?updatedAt=1774975726325</g:image_link>
@@ -142866,9 +142895,9 @@ updated, stay happy! </description>
 <g:custom_label_0>Home Appliances</g:custom_label_0>
 <g:custom_label_1>Air Conditioners</g:custom_label_1>
 <g:custom_label_2>Inverter ACs</g:custom_label_2>
-<g:custom_label_3>edlp</g:custom_label_3>
+<g:custom_label_3/>
 <g:custom_label_4/>
-<g:internal_label>['edlp']</g:internal_label><g:gtin>8901876026908</g:gtin>
+<g:gtin>8901876026908</g:gtin>
 <link>https://www.croma.com/croma-7-in-1-convertible-1-5-ton-5-star-inverter-split-ac-with-4-way-auto-swing-2026-model-copper-condenser-crla018inf170293-/p/319682</link>
 <g:price>55000.0 INR</g:price>
 <g:sale_price>42990.0 INR</g:sale_price>
@@ -145041,35 +145070,6 @@ updated, stay happy! </description>
 <g:additional_image_link>https://media.tatacroma.com/Croma%20Assets/Large%20Appliances/Air%20Cooler/Images/313227_0_bycjde.png</g:additional_image_link>
 <g:availability>out_of_stock</g:availability>
 <g:color> White </g:color>
-<g:shipping>
-<g:country>IN</g:country>
-<g:price>49.0 INR</g:price>
-</g:shipping>
-</item>
-<item>
-<g:id>313513</g:id>
-<title>elica EFL 3V 601 BLDC HAC LTW MS NERO 60cm 1500m3/hr Ductless Auto Clean Cabinet/Hob Mounted Chimney with Motion Sensor Control (Black)</title>
-<description>Buy elica EFL 3V 601 BLDC HAC LTW MS NERO 60cm 1500m3/hr Ducted Auto Clean Cabinet/Hob Mounted Chimney with Motion Sensor Control (Black) online at best prices from Croma. Check product details, reviews &amp; more. Shop now!</description>
-<g:google_product_category>Home &amp; Garden &gt; Kitchen &amp; Dining &gt; Kitchen Appliance Accessories</g:google_product_category>
-<g:product_type>Kitchen Appliances&gt;Electric Chimneys</g:product_type>
-<g:custom_label_0>Kitchen Appliances</g:custom_label_0>
-<g:custom_label_1>Electric Chimneys</g:custom_label_1>
-<g:custom_label_3/>
-<g:custom_label_4/>
-<g:gtin>8906078927824</g:gtin>
-<link>https://www.croma.com/elica-efl-3v-601-bldc-hac-ltw-ms-nero-60cm-1500m3-hr-ductless-auto-clean-cabinet-hob-mounted-chimney-with-motion-sensor-control-black-/p/313513</link>
-<g:price>43990.0 INR</g:price>
-<g:sale_price>20590.0 INR</g:sale_price>
-<g:brand>Elica</g:brand>
-<g:condition>new</g:condition>
-<g:image_link>https://media.tatacroma.com/Croma%20Assets/Small%20Appliances/Electric%20Chimney/Images/313513_0_vm6bls.png</g:image_link>
-<g:additional_image_link>https://media.tatacroma.com/Croma%20Assets/Small%20Appliances/Electric%20Chimney/Images/313513_0_vm6bls.png</g:additional_image_link>
-<g:availability>out_of_stock</g:availability>
-<g:color> Black </g:color>
-<g:product_applicability>SPECIFIC_PRODUCTS</g:product_applicability>
-<g:offer_type>NO_CODE</g:offer_type>
-<g:redemption_channel>ONLINE</g:redemption_channel>
-<g:promotion_destination>SHOPPING_ADS</g:promotion_destination>
 <g:shipping>
 <g:country>IN</g:country>
 <g:price>49.0 INR</g:price>
@@ -150988,9 +150988,9 @@ updated, stay happy! </description>
 <g:custom_label_0>Televisions &amp; Accessories</g:custom_label_0>
 <g:custom_label_1>LED TVs</g:custom_label_1>
 <g:custom_label_2>HD Ready TVs</g:custom_label_2>
-<g:custom_label_3>edlp</g:custom_label_3>
+<g:custom_label_3/>
 <g:custom_label_4/>
-<g:internal_label>['edlp']</g:internal_label><g:gtin>8901876028247</g:gtin>
+<g:gtin>8901876028247</g:gtin>
 <link>https://www.croma.com/croma-80cm-32-inch-1-star-hd-led-smart-google-tv-5-0-with-dolby-audio-2026-model-/p/322520</link>
 <g:price>19000.0 INR</g:price>
 <g:sale_price>13490.0 INR</g:sale_price>
@@ -152677,7 +152677,7 @@ updated, stay happy! </description>
 <g:gtin>8904239823718</g:gtin>
 <link>https://www.croma.com/blue-star-5-in-1-convertible-1-5-ton-5-star-inverter-split-smart-ac-with-ai-pro+-2026-model-copper-condenser-ia518nxus-/p/322150</link>
 <g:price>75500.0 INR</g:price>
-<g:sale_price>51490.0 INR</g:sale_price>
+<g:sale_price>49990.0 INR</g:sale_price>
 <g:brand>Blue Star</g:brand>
 <g:condition>new</g:condition>
 <g:image_link>https://media.tatacroma.com/Croma%20Assets/Large%20Appliances/Air%20Conditioner/Images/322150_0_kG5R5rd9D.png?updatedAt=1784889762795</g:image_link>
@@ -155743,9 +155743,9 @@ updated, stay happy! </description>
 <g:custom_label_0>Home Appliances</g:custom_label_0>
 <g:custom_label_1>Air Conditioners</g:custom_label_1>
 <g:custom_label_2>Inverter ACs</g:custom_label_2>
-<g:custom_label_3>edlp</g:custom_label_3>
+<g:custom_label_3/>
 <g:custom_label_4/>
-<g:internal_label>['edlp']</g:internal_label><g:gtin>8901876027158</g:gtin>
+<g:gtin>8901876027158</g:gtin>
 <link>https://www.croma.com/croma-7-in-1-convertible-1-ton-3-star-inverter-split-ac-with-self-diagnosis-2026-model-copper-condenser-crla012ind342402-/p/319776</link>
 <g:price>37000.0 INR</g:price>
 <g:sale_price>28490.0 INR</g:sale_price>
