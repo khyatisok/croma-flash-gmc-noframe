@@ -46096,36 +46096,6 @@ updated, stay happy! </description>
 </g:shipping>
 </item>
 <item>
-<g:id>321845</g:id>
-<title>vivo Y51 Pro 5G (8GB RAM, 128GB, Noble Gold)</title>
-<description>Buy vivo Y51 Pro 5G (8GB RAM, 128GB, Noble Gold) online at best prices from Croma. Check product details, reviews &amp; more. Shop now!</description>
-<g:google_product_category>Electronics &gt; Communications &gt; Telephony &gt; Mobile Phones</g:google_product_category>
-<g:product_type>Phones &amp; Wearables&gt;Mobile Phones&gt;Android Phones</g:product_type>
-<g:custom_label_0>Phones &amp; Wearables</g:custom_label_0>
-<g:custom_label_1>Mobile Phones</g:custom_label_1>
-<g:custom_label_2>Android Phones</g:custom_label_2>
-<g:custom_label_3/>
-<g:custom_label_4/>
-<g:gtin>6932204522177</g:gtin>
-<link>https://www.croma.com/vivo-y51-pro-5g-8gb-ram-128gb-noble-gold-/p/321845</link>
-<g:price>49999.0 INR</g:price>
-<g:sale_price>34999.0 INR</g:sale_price>
-<g:brand>Vivo</g:brand>
-<g:condition>new</g:condition>
-<g:image_link>https://media.tatacroma.com/Croma%20Assets/Communication/Mobiles/Images/321845_0_rpcMVDUD6.png?updatedAt=1773152964437</g:image_link>
-<g:additional_image_link>https://media.tatacroma.com/Croma%20Assets/Communication/Mobiles/Images/321845_0_rpcMVDUD6.png?updatedAt=1773152964437</g:additional_image_link>
-<g:availability>in_stock</g:availability>
-<g:color>  Noble Gold  </g:color>
-<g:product_applicability>SPECIFIC_PRODUCTS</g:product_applicability>
-<g:offer_type>NO_CODE</g:offer_type>
-<g:redemption_channel>ONLINE</g:redemption_channel>
-<g:promotion_destination>SHOPPING_ADS</g:promotion_destination>
-<g:shipping>
-<g:country>IN</g:country>
-<g:price>79.0 INR</g:price>
-</g:shipping>
-</item>
-<item>
 <g:id>320914</g:id>
 <title>HOLLYLAND Lark A1 Mini Duo 2 Type C Wireless Microphone with Auto-Limit Clip Protection (Black)</title>
 <description>Buy HOLLYLAND Lark A1 Mini Duo 2 Type C Wireless Microphone with Auto-Limit Clip Protection (Black) online at best prices from Croma. Check product details, reviews &amp; more. Shop now!</description>
@@ -46231,6 +46201,36 @@ updated, stay happy! </description>
 <g:shipping>
 <g:country>IN</g:country>
 <g:price>29.0 INR</g:price>
+</g:shipping>
+</item>
+<item>
+<g:id>321845</g:id>
+<title>vivo Y51 Pro 5G (8GB RAM, 128GB, Noble Gold)</title>
+<description>Buy vivo Y51 Pro 5G (8GB RAM, 128GB, Noble Gold) online at best prices from Croma. Check product details, reviews &amp; more. Shop now!</description>
+<g:google_product_category>Electronics &gt; Communications &gt; Telephony &gt; Mobile Phones</g:google_product_category>
+<g:product_type>Phones &amp; Wearables&gt;Mobile Phones&gt;Android Phones</g:product_type>
+<g:custom_label_0>Phones &amp; Wearables</g:custom_label_0>
+<g:custom_label_1>Mobile Phones</g:custom_label_1>
+<g:custom_label_2>Android Phones</g:custom_label_2>
+<g:custom_label_3/>
+<g:custom_label_4/>
+<g:gtin>6932204522177</g:gtin>
+<link>https://www.croma.com/vivo-y51-pro-5g-8gb-ram-128gb-noble-gold-/p/321845</link>
+<g:price>49999.0 INR</g:price>
+<g:sale_price>34999.0 INR</g:sale_price>
+<g:brand>Vivo</g:brand>
+<g:condition>new</g:condition>
+<g:image_link>https://media.tatacroma.com/Croma%20Assets/Communication/Mobiles/Images/321845_0_rpcMVDUD6.png?updatedAt=1773152964437</g:image_link>
+<g:additional_image_link>https://media.tatacroma.com/Croma%20Assets/Communication/Mobiles/Images/321845_0_rpcMVDUD6.png?updatedAt=1773152964437</g:additional_image_link>
+<g:availability>in_stock</g:availability>
+<g:color>  Noble Gold  </g:color>
+<g:product_applicability>SPECIFIC_PRODUCTS</g:product_applicability>
+<g:offer_type>NO_CODE</g:offer_type>
+<g:redemption_channel>ONLINE</g:redemption_channel>
+<g:promotion_destination>SHOPPING_ADS</g:promotion_destination>
+<g:shipping>
+<g:country>IN</g:country>
+<g:price>79.0 INR</g:price>
 </g:shipping>
 </item>
 <item>
@@ -48747,9 +48747,9 @@ updated, stay happy! </description>
 <g:custom_label_0>Computers &amp; Tablets</g:custom_label_0>
 <g:custom_label_1>Laptops</g:custom_label_1>
 <g:custom_label_2>Windows Laptops</g:custom_label_2>
-<g:custom_label_3/>
+<g:custom_label_3>edlp</g:custom_label_3>
 <g:custom_label_4/>
-<g:gtin>199276326690</g:gtin>
+<g:internal_label>['edlp']</g:internal_label><g:gtin>199276326690</g:gtin>
 <link>https://www.croma.com/lenovo-ideapad-slim-3-15iph11-intel-core-ultra-5-thin-light-laptop-16gb-512gb-ssd-windows-11-home-15-3-inch-wuxga-ips-display-ms-office-home-2024-luna-grey-1-63-kg-/p/323323</link>
 <g:price>197890.0 INR</g:price>
 <g:sale_price>90990.0 INR</g:sale_price>
@@ -50036,6 +50036,36 @@ updated, stay happy! </description>
 <g:shipping>
 <g:country>IN</g:country>
 <g:price>299.0 INR</g:price>
+</g:shipping>
+</item>
+<item>
+<g:id>317152</g:id>
+<title>Aquaguard Aspire Designo UTC 7L UV + UF Water Purifier with Water Saving Technology (Black)</title>
+<description>Buy Aquaguard Aspire Designo UTC 7L UV + UF Water Purifier with Water Saving Technology (Black) online at best prices from Croma. Check product details, reviews &amp; more. Shop now!</description>
+<g:google_product_category>Hardware &gt; Plumbing &gt; Water Dispensing &amp; Filtration &gt; Water Dispensers</g:google_product_category>
+<g:product_type>Kitchen Appliances&gt;Water Purifiers &amp; Dispensers&gt;Water Purifiers</g:product_type>
+<g:custom_label_0>Kitchen Appliances</g:custom_label_0>
+<g:custom_label_1>Water Purifiers &amp; Dispensers</g:custom_label_1>
+<g:custom_label_2>Water Purifiers</g:custom_label_2>
+<g:custom_label_3/>
+<g:custom_label_4/>
+<g:gtin>8901561226507</g:gtin>
+<link>https://www.croma.com/aquaguard-aspire-designo-utc-7l-uv-+-uf-water-purifier-with-water-saving-technology-black-/p/317152</link>
+<g:price>28000.0 INR</g:price>
+<g:sale_price>21499.0 INR</g:sale_price>
+<g:brand>Aquaguard</g:brand>
+<g:condition>new</g:condition>
+<g:image_link>https://media.tatacroma.com/Croma%20Assets/Small%20Appliances/Water%20Purifier/Images/317152_0_ihoqyx6sp.png?updatedAt=1760548347621</g:image_link>
+<g:additional_image_link>https://media.tatacroma.com/Croma%20Assets/Small%20Appliances/Water%20Purifier/Images/317152_0_ihoqyx6sp.png?updatedAt=1760548347621</g:additional_image_link>
+<g:availability>in_stock</g:availability>
+<g:color> BLACK </g:color>
+<g:product_applicability>SPECIFIC_PRODUCTS</g:product_applicability>
+<g:offer_type>NO_CODE</g:offer_type>
+<g:redemption_channel>ONLINE</g:redemption_channel>
+<g:promotion_destination>SHOPPING_ADS</g:promotion_destination>
+<g:shipping>
+<g:country>IN</g:country>
+<g:price>49.0 INR</g:price>
 </g:shipping>
 </item>
 <item>
@@ -55541,6 +55571,32 @@ updated, stay happy! </description>
 <g:offer_type>NO_CODE</g:offer_type>
 <g:redemption_channel>ONLINE</g:redemption_channel>
 <g:promotion_destination>SHOPPING_ADS</g:promotion_destination>
+<g:shipping>
+<g:country>IN</g:country>
+<g:price>49.0 INR</g:price>
+</g:shipping>
+</item>
+<item>
+<g:id>316261</g:id>
+<title>HAVELLS Fabia Slim 15 Litre 4 Star Horizontal Storage Geyser with Whirlflow Technology (White &amp; Blue)</title>
+<description>Buy HAVELLS Fabia Slim 15 Litre 4 Star Horizontal Storage Geyser with Whirlflow Technology (White &amp; Blue) online at best prices from Croma. Check product details, reviews &amp; more. Shop now!</description>
+<g:google_product_category>Home &amp; Garden &gt; Household Appliances &gt; Water Heaters</g:google_product_category>
+<g:product_type>Home Appliances&gt;Geysers&gt;Storage Water Heaters</g:product_type>
+<g:custom_label_0>Home Appliances</g:custom_label_0>
+<g:custom_label_1>Geysers</g:custom_label_1>
+<g:custom_label_2>Storage Water Heaters</g:custom_label_2>
+<g:custom_label_3/>
+<g:custom_label_4/>
+<g:gtin>8901762423385</g:gtin>
+<link>https://www.croma.com/havells-fabia-slim-15-litre-4-star-horizontal-storage-geyser-with-whirlflow-technology-white-blue-/p/316261</link>
+<g:price>21990.0 INR</g:price>
+<g:sale_price>10990.0 INR</g:sale_price>
+<g:brand>Havells</g:brand>
+<g:condition>new</g:condition>
+<g:image_link>https://media.tatacroma.com/Croma%20Assets/Small%20Appliances/Geysers/Images/316261_0_ms0Y7mi-qO.png?updatedAt=1753355440994</g:image_link>
+<g:additional_image_link>https://media.tatacroma.com/Croma%20Assets/Small%20Appliances/Geysers/Images/316261_0_ms0Y7mi-qO.png?updatedAt=1753355440994</g:additional_image_link>
+<g:availability>in_stock</g:availability>
+<g:color> White &amp; Blue </g:color>
 <g:shipping>
 <g:country>IN</g:country>
 <g:price>49.0 INR</g:price>
@@ -70925,6 +70981,32 @@ updated, stay happy! </description>
 <g:shipping>
 <g:country>IN</g:country>
 <g:price>29.0 INR</g:price>
+</g:shipping>
+</item>
+<item>
+<g:id>253068</g:id>
+<title>PHILIPS 1000 Watt 4 Jars Juicer Mixer Grinder (22000 RPM, Rotary Knob Control, Black/White)</title>
+<description>Buy Philips 1000 Watt 4 Jars Juicer Mixer Grinder (22000 RPM, Rotary Knob Control, Black/White) online at best prices from Croma. Check product details, reviews &amp; more. Shop now!</description>
+<g:google_product_category>Home &amp; Garden &gt; Kitchen &amp; Dining &gt; Kitchen Appliance Accessories</g:google_product_category>
+<g:product_type>Kitchen Appliances&gt;Food Preparation Appliances&gt;Mixer Grinders</g:product_type>
+<g:custom_label_0>Kitchen Appliances</g:custom_label_0>
+<g:custom_label_1>Food Preparation Appliances</g:custom_label_1>
+<g:custom_label_2>Mixer Grinders</g:custom_label_2>
+<g:custom_label_3/>
+<g:custom_label_4/>
+<g:gtin>8720389014086</g:gtin>
+<link>https://www.croma.com/philips-1000-watt-4-jars-juicer-mixer-grinder-22000-rpm-rotary-knob-control-black-white-/p/253068</link>
+<g:price>8595.0 INR</g:price>
+<g:sale_price>5699.0 INR</g:sale_price>
+<g:brand>Philips</g:brand>
+<g:condition>new</g:condition>
+<g:image_link>https://media.tatacroma.com/Croma%20Assets/Small%20Appliances/Food%20Processors/Images/253068_0_1Xe9OVEWz.png?updatedAt=1758554727156</g:image_link>
+<g:additional_image_link>https://media.tatacroma.com/Croma%20Assets/Small%20Appliances/Food%20Processors/Images/253068_0_1Xe9OVEWz.png?updatedAt=1758554727156</g:additional_image_link>
+<g:availability>in_stock</g:availability>
+<g:color> White and Black </g:color>
+<g:shipping>
+<g:country>IN</g:country>
+<g:price>49.0 INR</g:price>
 </g:shipping>
 </item>
 <item>
@@ -118859,36 +118941,6 @@ updated, stay happy! </description>
 </g:shipping>
 </item>
 <item>
-<g:id>317152</g:id>
-<title>Aquaguard Aspire Designo UTC 7L UV + UF Water Purifier with Water Saving Technology (Black)</title>
-<description>Buy Aquaguard Aspire Designo UTC 7L UV + UF Water Purifier with Water Saving Technology (Black) online at best prices from Croma. Check product details, reviews &amp; more. Shop now!</description>
-<g:google_product_category>Hardware &gt; Plumbing &gt; Water Dispensing &amp; Filtration &gt; Water Dispensers</g:google_product_category>
-<g:product_type>Kitchen Appliances&gt;Water Purifiers &amp; Dispensers&gt;Water Purifiers</g:product_type>
-<g:custom_label_0>Kitchen Appliances</g:custom_label_0>
-<g:custom_label_1>Water Purifiers &amp; Dispensers</g:custom_label_1>
-<g:custom_label_2>Water Purifiers</g:custom_label_2>
-<g:custom_label_3/>
-<g:custom_label_4/>
-<g:gtin>8901561226507</g:gtin>
-<link>https://www.croma.com/aquaguard-aspire-designo-utc-7l-uv-+-uf-water-purifier-with-water-saving-technology-black-/p/317152</link>
-<g:price>28000.0 INR</g:price>
-<g:sale_price>21499.0 INR</g:sale_price>
-<g:brand>Aquaguard</g:brand>
-<g:condition>new</g:condition>
-<g:image_link>https://media.tatacroma.com/Croma%20Assets/Small%20Appliances/Water%20Purifier/Images/317152_0_ihoqyx6sp.png?updatedAt=1760548347621</g:image_link>
-<g:additional_image_link>https://media.tatacroma.com/Croma%20Assets/Small%20Appliances/Water%20Purifier/Images/317152_0_ihoqyx6sp.png?updatedAt=1760548347621</g:additional_image_link>
-<g:availability>out_of_stock</g:availability>
-<g:color> BLACK </g:color>
-<g:product_applicability>SPECIFIC_PRODUCTS</g:product_applicability>
-<g:offer_type>NO_CODE</g:offer_type>
-<g:redemption_channel>ONLINE</g:redemption_channel>
-<g:promotion_destination>SHOPPING_ADS</g:promotion_destination>
-<g:shipping>
-<g:country>IN</g:country>
-<g:price>49.0 INR</g:price>
-</g:shipping>
-</item>
-<item>
 <g:id>316649</g:id>
 <title>ILIFE T60s Robotic Vacuum Cleaner &amp; Mop with Deep-Cleaning Suction Technology (6400 mAh Battery, White)</title>
 <description>Buy ILIFE T60s Robotic Vacuum Cleaner &amp; Mop with Deep-Cleaning Suction Technology (6400 mAh Battery, White) online at best prices from Croma. Check product details, reviews &amp; more. Shop now!</description>
@@ -126089,32 +126141,6 @@ updated, stay happy! </description>
 <g:shipping>
 <g:country>IN</g:country>
 <g:price>29.0 INR</g:price>
-</g:shipping>
-</item>
-<item>
-<g:id>316261</g:id>
-<title>HAVELLS Fabia Slim 15 Litre 4 Star Horizontal Storage Geyser with Whirlflow Technology (White &amp; Blue)</title>
-<description>Buy HAVELLS Fabia Slim 15 Litre 4 Star Horizontal Storage Geyser with Whirlflow Technology (White &amp; Blue) online at best prices from Croma. Check product details, reviews &amp; more. Shop now!</description>
-<g:google_product_category>Home &amp; Garden &gt; Household Appliances &gt; Water Heaters</g:google_product_category>
-<g:product_type>Home Appliances&gt;Geysers&gt;Storage Water Heaters</g:product_type>
-<g:custom_label_0>Home Appliances</g:custom_label_0>
-<g:custom_label_1>Geysers</g:custom_label_1>
-<g:custom_label_2>Storage Water Heaters</g:custom_label_2>
-<g:custom_label_3/>
-<g:custom_label_4/>
-<g:gtin>8901762423385</g:gtin>
-<link>https://www.croma.com/havells-fabia-slim-15-litre-4-star-horizontal-storage-geyser-with-whirlflow-technology-white-blue-/p/316261</link>
-<g:price>21990.0 INR</g:price>
-<g:sale_price>10990.0 INR</g:sale_price>
-<g:brand>Havells</g:brand>
-<g:condition>new</g:condition>
-<g:image_link>https://media.tatacroma.com/Croma%20Assets/Small%20Appliances/Geysers/Images/316261_0_ms0Y7mi-qO.png?updatedAt=1753355440994</g:image_link>
-<g:additional_image_link>https://media.tatacroma.com/Croma%20Assets/Small%20Appliances/Geysers/Images/316261_0_ms0Y7mi-qO.png?updatedAt=1753355440994</g:additional_image_link>
-<g:availability>out_of_stock</g:availability>
-<g:color> White &amp; Blue </g:color>
-<g:shipping>
-<g:country>IN</g:country>
-<g:price>49.0 INR</g:price>
 </g:shipping>
 </item>
 <item>
@@ -143954,32 +143980,6 @@ updated, stay happy! </description>
 </g:shipping>
 </item>
 <item>
-<g:id>253068</g:id>
-<title>PHILIPS 1000 Watt 4 Jars Juicer Mixer Grinder (22000 RPM, Rotary Knob Control, Black/White)</title>
-<description>Buy Philips 1000 Watt 4 Jars Juicer Mixer Grinder (22000 RPM, Rotary Knob Control, Black/White) online at best prices from Croma. Check product details, reviews &amp; more. Shop now!</description>
-<g:google_product_category>Home &amp; Garden &gt; Kitchen &amp; Dining &gt; Kitchen Appliance Accessories</g:google_product_category>
-<g:product_type>Kitchen Appliances&gt;Food Preparation Appliances&gt;Mixer Grinders</g:product_type>
-<g:custom_label_0>Kitchen Appliances</g:custom_label_0>
-<g:custom_label_1>Food Preparation Appliances</g:custom_label_1>
-<g:custom_label_2>Mixer Grinders</g:custom_label_2>
-<g:custom_label_3/>
-<g:custom_label_4/>
-<g:gtin>8720389014086</g:gtin>
-<link>https://www.croma.com/philips-1000-watt-4-jars-juicer-mixer-grinder-22000-rpm-rotary-knob-control-black-white-/p/253068</link>
-<g:price>8595.0 INR</g:price>
-<g:sale_price>5699.0 INR</g:sale_price>
-<g:brand>Philips</g:brand>
-<g:condition>new</g:condition>
-<g:image_link>https://media.tatacroma.com/Croma%20Assets/Small%20Appliances/Food%20Processors/Images/253068_0_1Xe9OVEWz.png?updatedAt=1758554727156</g:image_link>
-<g:additional_image_link>https://media.tatacroma.com/Croma%20Assets/Small%20Appliances/Food%20Processors/Images/253068_0_1Xe9OVEWz.png?updatedAt=1758554727156</g:additional_image_link>
-<g:availability>out_of_stock</g:availability>
-<g:color> White and Black </g:color>
-<g:shipping>
-<g:country>IN</g:country>
-<g:price>49.0 INR</g:price>
-</g:shipping>
-</item>
-<item>
 <g:id>269338</g:id>
 <title>FABER 20 Litres 7 Bottles Wine Cooler (Single Zone, FWCJCF20, Black)</title>
 <description>Buy Faber 20 Litres 7 Bottles Wine Cooler (Single Zone, FWCJCF20, Black) online at best prices from Croma. Check product details, reviews &amp; more. Shop now!</description>
@@ -149024,9 +149024,9 @@ updated, stay happy! </description>
 <g:custom_label_0>Televisions &amp; Accessories</g:custom_label_0>
 <g:custom_label_1>LED TVs</g:custom_label_1>
 <g:custom_label_2>HD Ready TVs</g:custom_label_2>
-<g:custom_label_3>edlp</g:custom_label_3>
+<g:custom_label_3/>
 <g:custom_label_4/>
-<g:internal_label>['edlp']</g:internal_label><g:gtin>8901876028247</g:gtin>
+<g:gtin>8901876028247</g:gtin>
 <link>https://www.croma.com/croma-80cm-32-inch-1-star-hd-led-smart-google-tv-5-0-with-dolby-audio-2026-model-/p/322520</link>
 <g:price>19000.0 INR</g:price>
 <g:sale_price>13490.0 INR</g:sale_price>
